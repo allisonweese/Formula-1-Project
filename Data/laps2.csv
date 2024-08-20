@@ -1,0 +1,1108 @@
+,Grand Prix,Driver,Car,Time,year,Code
+0,Great Britain,Nino  Farina ,Alfa Romeo,1:50.600,1950,FAR
+1,Monaco,Juan Manuel  Fangio ,Alfa Romeo,1:51.000,1950,FAN
+2,Switzerland,Nino  Farina ,Alfa Romeo,2:41.600,1950,FAR
+3,Belgium,Nino  Farina ,Alfa Romeo,4:34.100,1950,FAR
+4,France,Juan Manuel  Fangio ,Alfa Romeo,2:35.600,1950,FAN
+5,Italy,Juan Manuel  Fangio ,Alfa Romeo,2:00.000,1950,FAN
+6,Switzerland,Juan Manuel  Fangio ,Alfa Romeo,2:51.100,1951,FAN
+7,Indianapolis 500,Lee  Wallard ,Kurtis Kraft Offenhauser,1:07.260,1951,WAL
+8,Belgium,Juan Manuel  Fangio ,Alfa Romeo,4:22.100,1951,FAN
+9,France,Juan Manuel  Fangio ,Alfa Romeo,2:27.800,1951,FAN
+10,Great Britain,Nino  Farina ,Alfa Romeo,1:44.000,1951,FAR
+11,Germany,Juan Manuel  Fangio ,Alfa Romeo,9:55.800,1951,FAN
+12,Italy,Nino  Farina ,Alfa Romeo,1:56.500,1951,FAR
+13,Spain,Juan Manuel  Fangio ,Alfa Romeo,2:16.930,1951,FAN
+14,Switzerland,Piero Taruffi ,Ferrari,2:49.100,1952,TAR
+15,Indianapolis 500,Bill Vukovich,Kurtis Kraft Offenhauser,1:06.600,1952,VUK
+16,Belgium,Alberto  Ascari ,Ferrari,4:55.000,1952,ASC
+17,France,Alberto  Ascari ,Ferrari,2:17.300,1952,ASC
+18,Great Britain,Alberto  Ascari ,Ferrari,1:52.000,1952,ASC
+19,Germany,Alberto  Ascari ,Ferrari,10:05.100,1952,ASC
+20,Netherlands,Alberto  Ascari ,Ferrari,1:49.800,1952,ASC
+21,Italy,Alberto  Ascari ,Ferrari,2:06.100,1952,ASC
+22,Argentina,Alberto  Ascari ,Ferrari,1:48.400,1953,ASC
+23,Indianapolis 500,Bill Vukovich,Kurtis Kraft Offenhauser,1:06.240,1953,VUK
+24,Netherlands,Luigi Villoresi ,Ferrari,1:52.800,1953,VIL
+25,Belgium,Jose Froilan  Gonzalez ,Maserati,4:34.000,1953,GON
+26,France,Juan Manuel  Fangio ,Maserati,2:41.100,1953,FAN
+27,Great Britain,Alberto  Ascari ,Ferrari,1:50.000,1953,ASC
+28,Germany,Alberto  Ascari ,Ferrari,9:56.000,1953,ASC
+29,Switzerland,Alberto  Ascari ,Ferrari,2:41.300,1953,ASC
+30,Italy,Juan Manuel  Fangio ,Maserati,2:04.500,1953,FAN
+31,Argentina,Jose Froilan  Gonzalez ,Ferrari,1:48.200,1954,GON
+32,Indianapolis 500,Jack  McGrath ,Kurtis Kraft Offenhauser,1:04.040,1954,MCG
+33,Belgium,Juan Manuel  Fangio ,Maserati,4:25.500,1954,FAN
+34,France,Hans Herrmann ,Mercedes-Benz,2:32.900,1954,HER
+35,Great Britain,Alberto  Ascari ,Maserati,1:50.000,1954,ASC
+36,Germany,Karl  Kling ,Mercedes-Benz,9:55.100,1954,KLI
+37,Switzerland,Juan Manuel  Fangio ,Mercedes-Benz,2:39.700,1954,FAN
+38,Italy,Jose Froilan  Gonzalez ,Ferrari,2:00.800,1954,GON
+39,Spain,Alberto  Ascari ,Lancia,2:20.400,1954,ASC
+40,Argentina,Juan Manuel  Fangio ,Mercedes-Benz,1:48.300,1955,FAN
+41,Monaco,Juan Manuel  Fangio ,Mercedes-Benz,1:42.400,1955,FAN
+42,Indianapolis 500,Bill Vukovich,Kurtis Kraft Offenhauser,1:03.670,1955,VUK
+43,Belgium,Juan Manuel  Fangio ,Mercedes-Benz,4:20.600,1955,FAN
+44,Netherlands,Roberto  Mieres ,Maserati,1:40.900,1955,MIE
+45,Great Britain,Stirling  Moss ,Mercedes-Benz,2:00.400,1955,MOS
+46,Italy,Stirling  Moss ,Mercedes-Benz,2:46.900,1955,MOS
+47,Argentina,Juan Manuel  Fangio ,Ferrari,1:45.300,1956,FAN
+48,Monaco,Juan Manuel  Fangio ,Ferrari,1:44.400,1956,FAN
+49,Indianapolis 500,Paul  Russo ,Kurtis Kraft Novi,1:02.320,1956,RUS
+50,Belgium,Stirling  Moss ,Maserati,4:14.700,1956,MOS
+51,France,Juan Manuel  Fangio ,Ferrari,2:25.800,1956,FAN
+52,Great Britain,Stirling  Moss ,Maserati,1:43.200,1956,MOS
+53,Germany,Juan Manuel  Fangio ,Ferrari,9:41.600,1956,FAN
+54,Italy,Stirling  Moss ,Maserati,2:45.500,1956,MOS
+55,Argentina,Stirling  Moss ,Maserati,1:44.700,1957,MOS
+56,Monaco,Juan Manuel  Fangio ,Maserati,1:45.600,1957,FAN
+57,Indianapolis 500,Jim  Rathmann ,Epperly Offenhauser,1:02.750,1957,RAT
+58,France,Luigi  Musso ,Ferrari,2:22.400,1957,MUS
+59,Great Britain,Stirling  Moss ,Vanwall,1:59.200,1957,MOS
+60,Germany,Juan Manuel  Fangio ,Maserati,9:17.400,1957,FAN
+61,Pescara,Stirling  Moss ,Vanwall,9:44.600,1957,MOS
+62,Italy,Tony  Brooks ,Vanwall,1:43.700,1957,BRO
+63,Argentina,Juan Manuel  Fangio ,Maserati,1:41.800,1958,FAN
+64,Monaco,Mike  Hawthorn ,Ferrari,1:40.600,1958,HAW
+65,Netherlands,Stirling  Moss ,Vanwall,1:37.600,1958,MOS
+66,Indianapolis 500,Tony Bettenhausen ,Epperly Offenhauser,1:02.370,1958,BET
+67,Belgium,Mike  Hawthorn ,Ferrari,3:58.300,1958,HAW
+68,France,Mike  Hawthorn ,Ferrari,2:24.900,1958,HAW
+69,Great Britain,Mike  Hawthorn ,Ferrari,1:40.800,1958,HAW
+70,Germany,Stirling  Moss ,Vanwall,9:09.200,1958,MOS
+71,Portugal,Mike  Hawthorn ,Ferrari,2:32.270,1958,HAW
+72,Italy,Phil  Hill ,Ferrari,1:42.900,1958,HIL
+73,Morocco,Stirling  Moss ,Vanwall,2:22.500,1958,MOS
+74,Monaco,Jack  Brabham ,Cooper Climax,1:40.400,1959,BRA
+75,Indianapolis 500,Johnny  Thomson ,Lesovsky Offenhauser,1:01.890,1959,THO
+76,Netherlands,Stirling  Moss ,Cooper Climax,1:36.700,1959,MOS
+77,France,Stirling  Moss ,BRM,2:22.800,1959,MOS
+78,Great Britain,Stirling  Moss ,BRM,1:57.000,1959,MOS
+79,Germany,Tony  Brooks ,Ferrari,2:04.500,1959,BRO
+80,Portugal,Stirling  Moss ,Cooper Climax,2:05.070,1959,MOS
+81,Italy,Phil  Hill ,Ferrari,1:40.400,1959,HIL
+82,United States,Maurice Trintignant ,Cooper Climax,3:05.000,1959,TRI
+83,Argentina,Stirling  Moss ,Cooper Climax,1:38.900,1960,MOS
+84,Monaco,Bruce  McLaren ,Lotus Climax,1:36.200,1960,MCL
+85,Indianapolis 500,Jim  Rathmann ,Watson Offenhauser,1:01.590,1960,RAT
+86,Netherlands,Stirling  Moss ,Lotus Climax,1:33.800,1960,MOS
+87,Belgium,Phil  Hill ,Ferrari,3:51.900,1960,HIL
+88,France,Jack  Brabham ,Cooper Climax,2:17.500,1960,BRA
+89,Great Britain,Graham  Hill ,BRM,1:34.400,1960,HIL
+90,Portugal,John  Surtees ,Lotus Climax,2:27.530,1960,SUR
+91,Italy,Phil  Hill ,Ferrari,2:43.600,1960,HIL
+92,United States,Jack  Brabham ,Cooper Climax,1:56.300,1960,BRA
+93,Monaco,Richie  Ginther ,Ferrari,1:36.300,1961,GIN
+94,Netherlands,Jim  Clark ,Lotus Climax,1:35.500,1961,CLA
+95,Belgium,Richie  Ginther ,Ferrari,3:59.800,1961,GIN
+96,France,Phil  Hill ,Ferrari,2:27.100,1961,HIL
+97,Great Britain,Tony  Brooks ,BRM Climax,1:57.800,1961,BRO
+98,Germany,Phil  Hill ,Ferrari,8:57.800,1961,HIL
+99,Italy,Giancarlo  Baghetti ,Ferrari,2:48.400,1961,BAG
+100,United States,Jack  Brabham ,Cooper Climax,1:18.200,1961,BRA
+101,Netherlands,Bruce  McLaren ,Cooper Climax,1:34.400,1962,MCL
+102,Monaco,Jim  Clark ,Lotus Climax,1:35.500,1962,CLA
+103,Belgium,Jim  Clark ,Lotus Climax,3:55.600,1962,CLA
+104,France,Graham  Hill ,BRM,2:16.900,1962,HIL
+105,Great Britain,Jim  Clark ,Lotus Climax,1:55.000,1962,CLA
+106,Germany,Graham  Hill ,BRM,10:12.200,1962,HIL
+107,Italy,Graham  Hill ,BRM,1:42.300,1962,HIL
+108,United States,Jim  Clark ,Lotus Climax,1:15.000,1962,CLA
+109,South Africa,Jim  Clark ,Lotus Climax,1:31.000,1962,CLA
+110,Monaco,John  Surtees ,Ferrari,1:34.500,1963,SUR
+111,Belgium,Jim  Clark ,Lotus Climax,3:58.100,1963,CLA
+112,Netherlands,Jim  Clark ,Lotus Climax,1:33.700,1963,CLA
+113,France,Jim  Clark ,Lotus Climax,2:21.600,1963,CLA
+114,Great Britain,John  Surtees ,Ferrari,1:36.000,1963,SUR
+115,Germany,John  Surtees ,Ferrari,8:47.000,1963,SUR
+116,Italy,Jim  Clark ,Lotus Climax,1:38.900,1963,CLA
+117,United States,Jim  Clark ,Lotus Climax,1:14.500,1963,CLA
+118,Mexico,Jim  Clark ,Lotus Climax,1:58.100,1963,CLA
+119,South Africa,Dan  Gurney ,Brabham Climax,1:29.100,1963,GUR
+120,Monaco,Graham  Hill ,BRM,1:33.900,1964,HIL
+121,Netherlands,Jim  Clark ,Lotus Climax,1:32.800,1964,CLA
+122,Belgium,Dan  Gurney ,Brabham Ford,3:49.200,1964,GUR
+123,France,Jack  Brabham ,Brabham Ford,2:11.400,1964,BRA
+124,Great Britain,Jim  Clark ,Lotus Climax,1:38.800,1964,CLA
+125,Germany,John  Surtees ,Ferrari,8:39.000,1964,SUR
+126,Austria,Dan  Gurney ,Brabham Ford,1:10.560,1964,GUR
+127,Italy,John  Surtees ,Ferrari,1:38.800,1964,SUR
+128,United States,Jim  Clark ,Lotus Climax,1:12.700,1964,CLA
+129,Mexico,Jim  Clark ,Lotus Climax,1:58.370,1964,CLA
+130,South Africa,Jim  Clark ,Lotus Climax,1:27.600,1965,CLA
+131,Monaco,Graham  Hill ,BRM,1:31.700,1965,HIL
+132,Belgium,Jim  Clark ,Lotus Climax,4:12.900,1965,CLA
+133,France,Jim  Clark ,Lotus Climax,3:18.900,1965,CLA
+134,Great Britain,Graham  Hill ,BRM,1:32.200,1965,HIL
+135,Netherlands,Jim  Clark ,Lotus Climax,1:30.600,1965,CLA
+136,Germany,Jim  Clark ,Lotus Climax,8:24.100,1965,CLA
+137,Italy,Jim  Clark ,Lotus Climax,1:36.400,1965,CLA
+138,United States,Graham  Hill ,BRM,1:11.900,1965,HIL
+139,Mexico,Dan  Gurney ,Brabham Climax,1:55.840,1965,GUR
+140,Monaco,Lorenzo  Bandini ,Ferrari,1:29.800,1966,BAN
+141,Belgium,John  Surtees ,Ferrari,4:18.700,1966,SUR
+142,France,Lorenzo  Bandini ,Ferrari,2:11.300,1966,BAN
+143,Great Britain,Jack  Brabham ,Brabham Climax,1:37.000,1966,BRA
+144,Netherlands,Denny  Hulme ,Brabham Climax,1:30.600,1966,HUL
+145,Germany,John  Surtees ,Cooper Maserati,8:49.000,1966,SUR
+146,Italy,Ludovico  Scarfiotti ,Ferrari,1:32.400,1966,SCA
+147,United States,John  Surtees ,Cooper Maserati,1:09.670,1966,SUR
+148,Mexico,Richie  Ginther ,Honda,1:53.750,1966,GIN
+149,South Africa,Denny  Hulme ,Brabham Repco,1:29.900,1967,HUL
+150,Monaco,Jim  Clark ,Lotus Climax,1:29.500,1967,CLA
+151,Netherlands,Jim  Clark ,Lotus Climax,1:28.080,1967,CLA
+152,Belgium,Dan  Gurney ,Eagle Climax,3:31.900,1967,GUR
+153,France,Graham  Hill ,Lotus Climax,1:36.700,1967,HIL
+154,Great Britain,Denny  Hulme ,Brabham Repco,1:27.000,1967,HUL
+155,Germany,Dan  Gurney ,Eagle Climax,8:15.100,1967,GUR
+156,Canada,Jim  Clark ,Lotus Climax,1:23.100,1967,CLA
+157,Italy,Jim  Clark ,Lotus Climax,1:28.500,1967,CLA
+158,United States,Graham  Hill ,Lotus Climax,1:06.000,1967,HIL
+159,Mexico,Jim  Clark ,Lotus Climax,1:48.130,1967,CLA
+160,South Africa,Jim  Clark ,Lotus Ford,1:23.700,1968,CLA
+161,Spain,Jean-Pierre  Beltoise ,Matra Ford,1:28.300,1968,BEL
+162,Monaco,Richard  Attwood ,BRM,1:28.100,1968,ATT
+163,Belgium,John  Surtees ,Honda,3:30.500,1968,SUR
+164,Netherlands,Jean-Pierre  Beltoise ,Matra Ford,1:45.910,1968,BEL
+165,France,Pedro  Rodriguez ,BRM,2:11.500,1968,ROD
+166,Great Britain,Jo  Siffert ,Lotus Ford,1:29.700,1968,SIF
+167,Germany,Jackie  Stewart ,Matra Ford,9:36.000,1968,STE
+168,Italy,Jackie  Oliver ,Lotus Ford,1:26.500,1968,OLI
+169,Canada,Jo  Siffert ,Lotus Ford,1:35.100,1968,SIF
+170,United States,Jackie  Stewart ,Matra Ford,1:05.220,1968,STE
+171,Mexico,Jo  Siffert ,Lotus Ford,1:44.230,1968,SIF
+172,South Africa,Jackie  Stewart ,Matra Ford,1:21.600,1969,STE
+173,Spain,Jochen  Rindt ,Lotus Ford,1:28.300,1969,RIN
+174,Monaco,Jackie  Stewart ,Matra Ford,1:25.100,1969,STE
+175,Netherlands,Jackie  Stewart ,Matra Ford,1:22.940,1969,STE
+176,France,Jackie  Stewart ,Matra Ford,3:02.700,1969,STE
+177,Great Britain,Jackie  Stewart ,Matra Ford,1:21.300,1969,STE
+178,Germany,Jacky  Ickx ,Brabham Climax,7:43.800,1969,ICK
+179,Italy,Jean-Pierre  Beltoise ,Matra Ford,1:25.200,1969,BEL
+180,Canada,Jacky  Ickx ,Brabham Climax,1:18.100,1969,ICK
+181,United States,Jochen  Rindt ,Lotus Ford,1:04.340,1969,RIN
+182,Mexico,Jacky  Ickx ,Brabham Climax,1:43.050,1969,ICK
+183,South Africa,John  Surtees ,McLaren Ford,1:20.800,1970,SUR
+184,Spain,Jack  Brabham ,Brabham Ford,1:24.300,1970,BRA
+185,Monaco,Jochen  Rindt ,Lotus Ford,1:23.200,1970,RIN
+186,Belgium,Chris  Amon ,March Ford,3:27.400,1970,AMO
+187,Netherlands,Jacky  Ickx ,Ferrari,1:19.230,1970,ICK
+188,France,Jack  Brabham ,Brabham Ford,3:00.750,1970,BRA
+189,Great Britain,Jack  Brabham ,Brabham Ford,1:25.900,1970,BRA
+190,Germany,Jacky  Ickx ,Ferrari,2:00.500,1970,ICK
+191,Austria,Jacky  Ickx ,Ferrari,1:40.400,1970,ICK
+192,Italy,Clay  Regazzoni ,Ferrari,1:25.200,1970,REG
+193,Canada,Clay  Regazzoni ,Ferrari,1:32.200,1970,REG
+194,United States,Jacky  Ickx ,Ferrari,1:02.740,1970,ICK
+195,Mexico,Jacky  Ickx ,Ferrari,1:43.110,1970,ICK
+196,South Africa,Mario  Andretti ,Ferrari,1:20.300,1971,AND
+197,Spain,Jacky  Ickx ,Ferrari,1:25.100,1971,ICK
+198,Monaco,Jackie  Stewart ,Tyrrell Ford,1:22.200,1971,STE
+199,Netherlands,Jacky  Ickx ,Ferrari,1:34.950,1971,ICK
+200,France,Jackie  Stewart ,Tyrrell Ford,1:54.090,1971,STE
+201,Great Britain,Jackie  Stewart ,Tyrrell Ford,1:19.900,1971,STE
+202,Germany,Francois Cevert,Tyrrell Ford,7:20.100,1971,CEV
+203,Austria,Jo  Siffert ,BRM,1:38.470,1971,SIF
+204,Italy,Henri  Pescarolo ,March Ford,1:23.800,1971,PES
+205,Canada,Denny  Hulme ,McLaren Ford,1:43.500,1971,HUL
+206,United States,Jacky  Ickx ,Ferrari,1:43.474,1971,ICK
+207,Argentina,Jackie  Stewart ,Tyrrell Ford,1:13.660,1972,STE
+208,South Africa,Mike  Hailwood ,Surtees Ford,1:18.900,1972,HAI
+209,Spain,Jacky  Ickx ,Ferrari,1:21.010,1972,ICK
+210,Monaco,Jean-Pierre  Beltoise ,BRM,1:40.000,1972,BEL
+211,Belgium,Chris  Amon ,Matra,1:12.120,1972,AMO
+212,France,Chris  Amon ,Matra,2:53.900,1972,AMO
+213,Great Britain,Jackie  Stewart ,Tyrrell Ford,1:24.000,1972,STE
+214,Germany,Jacky  Ickx ,Ferrari,7:13.600,1972,ICK
+215,Austria,Denny  Hulme ,McLaren Ford,1:38.320,1972,HUL
+216,Italy,Jacky  Ickx ,Ferrari,1:36.300,1972,ICK
+217,Canada,Jackie  Stewart ,Tyrrell Ford,1:15.700,1972,STE
+218,United States,Jackie  Stewart ,Tyrrell Ford,1:41.644,1972,STE
+219,Argentina,Emerson  Fittipaldi ,Lotus Ford,1:11.220,1973,FIT
+220,Brazil,Emerson  Fittipaldi ,Lotus Ford,2:35.000,1973,FIT
+221,South Africa,Emerson  Fittipaldi ,Lotus Ford,1:17.100,1973,FIT
+222,Spain,Ronnie  Peterson ,Lotus Ford,1:23.800,1973,PET
+223,Belgium,Francois Cevert,Tyrrell Ford,1:25.420,1973,CEV
+224,Monaco,Emerson  Fittipaldi ,Lotus Ford,1:28.100,1973,FIT
+225,Sweden,Denny  Hulme ,McLaren Ford,1:26.146,1973,HUL
+226,France,Denny  Hulme ,McLaren Ford,1:50.990,1973,HUL
+227,Great Britain,James  Hunt ,March Ford,1:18.600,1973,HUN
+228,Netherlands,Ronnie  Peterson ,Lotus Ford,1:20.310,1973,PET
+229,Germany,Carlos  Pace ,Surtees Ford,7:11.400,1973,PAC
+230,Austria,Carlos  Pace ,Surtees Ford,1:37.290,1973,PAC
+231,Italy,Jackie  Stewart ,Tyrrell Ford,1:35.300,1973,STE
+232,Canada,Emerson  Fittipaldi ,Lotus Ford,1:15.496,1973,FIT
+233,United States,James  Hunt ,March Ford,1:41.652,1973,HUN
+234,Argentina,Clay  Regazzoni ,Ferrari,1:52.100,1974,REG
+235,Brazil,Clay  Regazzoni ,Ferrari,2:36.050,1974,REG
+236,South Africa,Carlos  Reutemann ,Brabham Ford,1:18.160,1974,REU
+237,Spain,Niki  Lauda ,Ferrari,1:20.830,1974,LAU
+238,Belgium,Denny  Hulme ,McLaren Ford,1:11.310,1974,HUL
+239,Monaco,Ronnie  Peterson ,Lotus Ford,1:27.900,1974,PET
+240,Sweden,Patrick  Depailler ,Tyrrell Ford,1:27.262,1974,DEP
+241,Netherlands,Ronnie  Peterson ,Lotus Ford,1:21.440,1974,PET
+242,France,Jody  Scheckter ,Tyrrell Ford,1:00.000,1974,SCH
+243,Great Britain,Niki  Lauda ,Ferrari,1:21.100,1974,LAU
+244,Germany,Jody  Scheckter ,Tyrrell Ford,7:11.100,1974,SCH
+245,Austria,Clay  Regazzoni ,Ferrari,1:37.220,1974,REG
+246,Italy,Carlos  Pace ,Brabham Ford,1:34.200,1974,PAC
+247,Canada,Niki  Lauda ,Ferrari,1:13.659,1974,LAU
+248,United States,Carlos  Pace ,Brabham Ford,1:40.608,1974,PAC
+249,Argentina,James  Hunt ,Hesketh Ford,1:50.910,1975,HUN
+250,Brazil,Jean-Pierre  Jarier ,Shadow Matra,2:34.160,1975,JAR
+251,South Africa,Carlos  Pace ,Brabham Ford,1:17.200,1975,PAC
+252,Spain,Mario  Andretti ,Parnelli Ford,1:25.100,1975,AND
+253,Monaco,Patrick  Depailler ,Tyrrell Ford,1:28.670,1975,DEP
+254,Belgium,Clay  Regazzoni ,Ferrari,1:26.760,1975,REG
+255,Sweden,Niki  Lauda ,Ferrari,1:28.267,1975,LAU
+256,Netherlands,Niki  Lauda ,Ferrari,1:21.540,1975,LAU
+257,France,Jochen  Mass ,McLaren Ford,1:50.600,1975,MAS
+258,Great Britain,Clay  Regazzoni ,Ferrari,1:20.900,1975,REG
+259,Germany,Clay  Regazzoni ,Ferrari,7:06.400,1975,REG
+260,Austria,Vittorio  Brambilla ,March Ford,1:53.900,1975,BRA
+261,Italy,Clay  Regazzoni ,Ferrari,1:33.100,1975,REG
+262,United States,Emerson  Fittipaldi ,McLaren Ford,1:43.374,1975,FIT
+263,Brazil,Jean-Pierre  Jarier ,Shadow Ford,2:35.070,1976,JAR
+264,South Africa,Niki  Lauda ,Ferrari,1:17.970,1976,LAU
+265,USA West,Clay  Regazzoni ,Ferrari,1:23.076,1976,REG
+266,Spain,Jochen  Mass ,McLaren Ford,1:20.930,1976,MAS
+267,Belgium,Niki  Lauda ,Ferrari,1:25.980,1976,LAU
+268,Monaco,Clay  Regazzoni ,Ferrari,1:30.280,1976,REG
+269,Sweden,Mario  Andretti ,Lotus Ford,1:28.002,1976,AND
+270,France,Niki  Lauda ,Ferrari,1:51.000,1976,LAU
+271,Great Britain,Niki  Lauda ,Ferrari,1:19.910,1976,LAU
+272,Germany,Jody  Scheckter ,Tyrrell Ford,7:10.800,1976,SCH
+273,Austria,James  Hunt ,McLaren Ford,1:35.910,1976,HUN
+274,Netherlands,Clay  Regazzoni ,Ferrari,1:22.590,1976,REG
+275,Italy,Ronnie  Peterson ,March Ford,1:41.300,1976,PET
+276,Canada,Patrick  Depailler ,Tyrrell Ford,1:13.817,1976,DEP
+277,USA East,James  Hunt ,McLaren Ford,1:42.851,1976,HUN
+278,Japan,Jacques  Laffite ,Ligier Matra,1:19.970,1976,LAF
+279,Argentina,James  Hunt ,McLaren Ford,1:51.060,1977,HUN
+280,Brazil,James  Hunt ,McLaren Ford,2:34.550,1977,HUN
+281,South Africa,John  Watson ,Brabham Alfa Romeo,1:17.630,1977,WAT
+282,USA West,Niki  Lauda ,Ferrari,1:22.753,1977,LAU
+283,Spain,Jacques  Laffite ,Ligier Matra,1:20.810,1977,LAF
+284,Monaco,Jody  Scheckter ,Wolf Ford,1:31.070,1977,SCH
+285,Belgium,Gunnar  Nilsson ,Lotus Ford,1:27.540,1977,NIL
+286,Sweden,Mario  Andretti ,Lotus Ford,1:27.607,1977,AND
+287,France,Mario  Andretti ,Lotus Ford,1:13.750,1977,AND
+288,Great Britain,James  Hunt ,McLaren Ford,1:19.600,1977,HUN
+289,Germany,Niki  Lauda ,Ferrari,1:55.990,1977,LAU
+290,Austria,John  Watson ,Brabham Alfa Romeo,1:40.960,1977,WAT
+291,Netherlands,Niki  Lauda ,Ferrari,1:19.990,1977,LAU
+292,Italy,Mario  Andretti ,Lotus Ford,1:39.100,1977,AND
+293,USA East,Ronnie  Peterson ,Tyrrell Ford,1:51.854,1977,PET
+294,Canada,Mario  Andretti ,Lotus Ford,1:13.299,1977,AND
+295,Japan,Jody  Scheckter ,Wolf Ford,1:14.300,1977,SCH
+296,Argentina,Gilles  Villeneuve ,Ferrari,1:49.760,1978,VIL
+297,Brazil,Carlos  Reutemann ,Ferrari,1:43.070,1978,REU
+298,South Africa,Mario  Andretti ,Lotus Ford,1:17.090,1978,AND
+299,USA West,Alan Jones ,Williams Ford,1:22.215,1978,JON
+300,Monaco,Niki  Lauda ,Brabham Alfa Romeo,1:28.650,1978,LAU
+301,Belgium,Ronnie  Peterson ,Lotus Ford,1:23.130,1978,PET
+302,Spain,Mario  Andretti ,Lotus Ford,1:20.060,1978,AND
+303,Sweden,Niki  Lauda ,Brabham Alfa Romeo,1:24.836,1978,LAU
+304,France,Carlos  Reutemann ,Ferrari,1:48.560,1978,REU
+305,Great Britain,Niki  Lauda ,Brabham Alfa Romeo,1:18.600,1978,LAU
+306,Germany,Ronnie  Peterson ,Lotus Ford,1:55.620,1978,PET
+307,Austria,Ronnie  Peterson ,Lotus Ford,1:43.120,1978,PET
+308,Netherlands,Niki  Lauda ,Brabham Alfa Romeo,1:19.570,1978,LAU
+309,Italy,Mario  Andretti ,Lotus Ford,1:38.230,1978,AND
+310,USA East,Jean-Pierre  Jarier ,Lotus Ford,1:39.557,1978,JAR
+311,Canada,Alan Jones ,Williams Ford,1:38.072,1978,JON
+312,Argentina,Jacques  Laffite ,Ligier Ford,1:46.910,1979,LAF
+313,Brazil,Jacques  Laffite ,Ligier Ford,2:28.760,1979,LAF
+314,South Africa,Gilles  Villeneuve ,Ferrari,1:14.412,1979,VIL
+315,USA West,Gilles  Villeneuve ,Ferrari,1:21.200,1979,VIL
+316,Spain,Gilles  Villeneuve ,Ferrari,1:16.440,1979,VIL
+317,Belgium,Gilles  Villeneuve ,Ferrari,1:23.090,1979,VIL
+318,Monaco,Patrick  Depailler ,Ligier Ford,1:28.820,1979,DEP
+319,France,Rene  Arnoux ,Renault,1:09.160,1979,ARN
+320,Great Britain,Clay  Regazzoni ,Williams Ford,1:14.400,1979,REG
+321,Germany,Gilles  Villeneuve ,Ferrari,1:51.890,1979,VIL
+322,Austria,Rene  Arnoux ,Renault,1:35.770,1979,ARN
+323,Netherlands,Gilles  Villeneuve ,Ferrari,1:19.438,1979,VIL
+324,Italy,Clay  Regazzoni ,Williams Ford,1:35.600,1979,REG
+325,Canada,Alan Jones ,Williams Ford,1:31.272,1979,JON
+326,USA East,Nelson  Piquet ,Brabham Ford,1:40.054,1979,PIQ
+327,Argentina,Alan Jones ,Williams Ford,1:50.450,1980,JON
+328,Brazil,Rene  Arnoux ,Renault,2:27.310,1980,ARN
+329,South Africa,Rene  Arnoux ,Renault,1:13.150,1980,ARN
+330,USA West,Nelson  Piquet ,Brabham Ford,1:19.830,1980,PIQ
+331,Belgium,Jacques  Laffite ,Ligier Ford,1:20.880,1980,LAF
+332,Monaco,Carlos  Reutemann ,Williams Ford,1:27.418,1980,REU
+333,France,Alan Jones ,Williams Ford,1:41.450,1980,JON
+334,Great Britain,Didier  Pironi ,Ligier Ford,1:12.368,1980,PIR
+335,Germany,Alan Jones ,Williams Ford,1:48.490,1980,JON
+336,Austria,Rene  Arnoux ,Renault,1:32.530,1980,ARN
+337,Netherlands,Rene  Arnoux ,Renault,1:19.350,1980,ARN
+338,Italy,Alan Jones ,Williams Ford,1:36.089,1980,JON
+339,Canada,Didier  Pironi ,Ligier Ford,1:28.769,1980,PIR
+340,USA East,Alan Jones ,Williams Ford,1:34.068,1980,JON
+341,USA West,Alan Jones ,Williams Ford,1:20.901,1981,JON
+342,Brazil,Marc  Surer ,Ensign Ford,1:54.302,1981,SUR
+343,Argentina,Nelson  Piquet ,Brabham Ford,1:45.287,1981,PIQ
+344,San Marino,Gilles  Villeneuve ,Ferrari,1:48.064,1981,VIL
+345,Belgium,Carlos  Reutemann ,Williams Ford,1:23.300,1981,REU
+346,Monaco,Alan Jones ,Williams Ford,1:27.470,1981,JON
+347,Spain,Alan Jones ,Williams Ford,1:17.818,1981,JON
+348,France,Alain  Prost ,Renault,1:09.140,1981,PRO
+349,Great Britain,Rene  Arnoux ,Renault,1:15.067,1981,ARN
+350,Germany,Alan Jones ,Williams Ford,1:52.420,1981,JON
+351,Austria,Jacques  Laffite ,Ligier Matra,1:37.620,1981,LAF
+352,Netherlands,Alan Jones ,Williams Ford,1:21.830,1981,JON
+353,Italy,Carlos  Reutemann ,Williams Ford,1:37.528,1981,REU
+354,Canada,John  Watson ,McLaren Ford,1:49.475,1981,WAT
+355,Caesar's Palace,Didier  Pironi ,Ferrari,1:20.156,1981,PIR
+356,South Africa,Alain  Prost ,Renault,1:08.278,1982,PRO
+357,Brazil,Alain  Prost ,Renault,1:37.016,1982,PRO
+358,USA West,Niki  Lauda ,McLaren Ford,1:30.831,1982,LAU
+359,San Marino,Didier  Pironi ,Ferrari,1:35.036,1982,PIR
+360,Belgium,John  Watson ,McLaren Ford,1:20.214,1982,WAT
+361,Monaco,Riccardo  Patrese ,Brabham Ford,1:26.354,1982,PAT
+362,Detroit,Alain  Prost ,Renault,1:50.438,1982,PRO
+363,Canada,Didier  Pironi ,Ferrari,1:28.323,1982,PIR
+364,Netherlands,Derek  Warwick ,Toleman Hart,1:19.780,1982,WAR
+365,Great Britain,Brian  Henton ,Tyrrell Ford,1:13.028,1982,HEN
+366,France,Riccardo  Patrese ,Brabham Ford,1:40.075,1982,PAT
+367,Germany,Nelson  Piquet ,Brabham Ford,1:54.035,1982,PIQ
+368,Austria,Nelson  Piquet ,Brabham Ford,1:33.699,1982,PIQ
+369,Switzerland,Alain  Prost ,Renault,1:07.477,1982,PRO
+370,Italy,Rene  Arnoux ,Renault,1:33.619,1982,ARN
+371,Caesar's Palace,Michele  Alboreto ,Tyrrell Ford,1:19.639,1982,ALB
+372,Brazil,Nelson  Piquet ,Brabham BMW,1:39.829,1983,PIQ
+373,USA West,Niki  Lauda ,McLaren TAG,1:28.330,1983,LAU
+374,France,Alain  Prost ,Renault,1:42.695,1983,PRO
+375,San Marino,Riccardo  Patrese ,Brabham BMW,1:34.437,1983,PAT
+376,Monaco,Nelson  Piquet ,Brabham BMW,1:27.283,1983,PIQ
+377,Belgium,Andrea  de Cesaris ,Alfa Romeo,2:07.493,1983,DEC
+378,Detroit,John  Watson ,McLaren TAG,1:47.668,1983,WAT
+379,Canada,Patrick  Tambay ,Ferrari,1:30.851,1983,TAM
+380,Great Britain,Alain  Prost ,Renault,1:14.212,1983,PRO
+381,Germany,Rene  Arnoux ,Ferrari,1:53.938,1983,ARN
+382,Austria,Alain  Prost ,Renault,1:33.961,1983,PRO
+383,Netherlands,Rene  Arnoux ,Ferrari,1:19.863,1983,ARN
+384,Italy,Nelson  Piquet ,Brabham BMW,1:34.431,1983,PIQ
+385,Europe,Nigel  Mansell ,Lotus Ford,1:14.342,1983,MAN
+386,South Africa,Nelson  Piquet ,Brabham BMW,1:09.948,1983,PIQ
+387,Brazil,Alain  Prost ,McLaren TAG,1:36.499,1984,PRO
+388,South Africa,Patrick  Tambay ,Renault,1:08.877,1984,TAM
+389,Belgium,Rene  Arnoux ,Ferrari,1:19.294,1984,ARN
+390,San Marino,Nelson  Piquet ,Brabham BMW,1:33.275,1984,PIQ
+391,France,Alain  Prost ,McLaren TAG,1:05.257,1984,PRO
+392,Monaco,Ayrton  Senna ,Toleman Hart,1:54.334,1984,SEN
+393,Canada,Nelson  Piquet ,Brabham BMW,1:28.763,1984,PIQ
+394,Detroit,Derek  Warwick ,Renault,1:46.221,1984,WAR
+395,Dallas,Niki  Lauda ,McLaren TAG,1:45.353,1984,LAU
+396,Great Britain,Niki  Lauda ,McLaren TAG,1:13.191,1984,LAU
+397,Germany,Alain  Prost ,McLaren TAG,1:53.538,1984,PRO
+398,Austria,Niki  Lauda ,McLaren TAG,1:32.882,1984,LAU
+399,Netherlands,Rene  Arnoux ,Ferrari,1:19.465,1984,ARN
+400,Italy,Niki  Lauda ,McLaren TAG,1:31.912,1984,LAU
+401,Europe,Nelson  Piquet ,Brabham BMW,1:23.146,1984,PIQ
+402,Portugal,Niki  Lauda ,McLaren TAG,1:22.996,1984,LAU
+403,Brazil,Alain  Prost ,McLaren TAG,1:36.702,1985,PRO
+404,Portugal,Ayrton  Senna ,Lotus Renault,1:44.121,1985,SEN
+405,San Marino,Michele  Alboreto ,Ferrari,1:30.961,1985,ALB
+406,Monaco,Michele  Alboreto ,Ferrari,1:22.637,1985,ALB
+407,Canada,Ayrton  Senna ,Lotus Renault,1:27.445,1985,SEN
+408,Detroit,Ayrton  Senna ,Lotus Renault,1:45.612,1985,SEN
+409,France,Keke  Rosberg ,Williams Honda,1:39.914,1985,ROS
+410,Great Britain,Alain  Prost ,McLaren TAG,1:09.886,1985,PRO
+411,Germany,Niki  Lauda ,McLaren TAG,1:22.806,1985,LAU
+412,Austria,Alain  Prost ,McLaren TAG,1:29.241,1985,PRO
+413,Netherlands,Alain  Prost ,McLaren TAG,1:16.538,1985,PRO
+414,Italy,Nigel  Mansell ,Williams Honda,1:28.283,1985,MAN
+415,Belgium,Alain  Prost ,McLaren TAG,2:01.730,1985,PRO
+416,Europe,Jacques  Laffite ,Ligier Renault,1:11.526,1985,LAF
+417,South Africa,Keke  Rosberg ,Williams Honda,1:08.149,1985,ROS
+418,Australia,Keke  Rosberg ,Williams Honda,1:23.758,1985,ROS
+419,Brazil,Nelson  Piquet ,Williams Honda,1:33.546,1986,PIQ
+420,Spain,Nigel  Mansell ,Williams Honda,1:27.176,1986,MAN
+421,San Marino,Nelson  Piquet ,Williams Honda,1:28.667,1986,PIQ
+422,Monaco,Alain  Prost ,McLaren TAG,1:26.607,1986,PRO
+423,Belgium,Alain  Prost ,McLaren TAG,1:59.282,1986,PRO
+424,Canada,Nelson  Piquet ,Williams Honda,1:25.443,1986,PIQ
+425,Detroit,Nelson  Piquet ,Williams Honda,1:41.233,1986,PIQ
+426,France,Nigel  Mansell ,Williams Honda,1:09.993,1986,MAN
+427,Great Britain,Nigel  Mansell ,Williams Honda,1:09.593,1986,MAN
+428,Germany,Gerhard  Berger ,Benetton BMW,1:46.604,1986,BER
+429,Hungary,Nelson  Piquet ,Williams Honda,1:31.001,1986,PIQ
+430,Austria,Gerhard  Berger ,Benetton BMW,1:29.444,1986,BER
+431,Italy,Teo  Fabi ,Benetton BMW,1:28.099,1986,FAB
+432,Portugal,Nigel  Mansell ,Williams Honda,1:20.943,1986,MAN
+433,Mexico,Nelson  Piquet ,Williams Honda,1:19.360,1986,PIQ
+434,Australia,Nelson  Piquet ,Williams Honda,1:20.787,1986,PIQ
+435,Brazil,Nelson  Piquet ,Williams Honda,1:33.861,1987,PIQ
+436,San Marino,Teo  Fabi ,Benetton Ford,1:29.246,1987,FAB
+437,Belgium,Alain  Prost ,McLaren TAG,1:57.153,1987,PRO
+438,Monaco,Ayrton  Senna ,Lotus Honda,1:27.685,1987,SEN
+439,Detroit,Ayrton  Senna ,Lotus Honda,1:40.464,1987,SEN
+440,France,Nelson  Piquet ,Williams Honda,1:09.548,1987,PIQ
+441,Great Britain,Nigel  Mansell ,Williams Honda,1:09.832,1987,MAN
+442,Germany,Nigel  Mansell ,Williams Honda,1:45.716,1987,MAN
+443,Hungary,Nelson  Piquet ,Williams Honda,1:30.149,1987,PIQ
+444,Austria,Nigel  Mansell ,Williams Honda,1:28.318,1987,MAN
+445,Italy,Ayrton  Senna ,Lotus Honda,1:26.796,1987,SEN
+446,Portugal,Gerhard  Berger ,Ferrari,1:19.282,1987,BER
+447,Spain,Gerhard  Berger ,Ferrari,1:26.986,1987,BER
+448,Mexico,Nelson  Piquet ,Williams Honda,1:19.132,1987,PIQ
+449,Japan,Alain  Prost ,McLaren TAG,1:43.844,1987,PRO
+450,Australia,Gerhard  Berger ,Ferrari,1:20.416,1987,BER
+451,Brazil,Gerhard  Berger ,Ferrari,1:32.943,1988,BER
+452,San Marino,Alain  Prost ,McLaren Honda,1:29.685,1988,PRO
+453,Monaco,Ayrton  Senna ,McLaren Honda,1:26.321,1988,SEN
+454,Mexico,Alain  Prost ,McLaren Honda,1:18.608,1988,PRO
+455,Canada,Ayrton  Senna ,McLaren Honda,1:24.973,1988,SEN
+456,Detroit,Alain  Prost ,McLaren Honda,1:44.836,1988,PRO
+457,France,Alain  Prost ,McLaren Honda,1:11.737,1988,PRO
+458,Great Britain,Nigel  Mansell ,Williams Judd,1:23.308,1988,MAN
+459,Germany,Alessandro  Nannini ,Benetton Ford,2:03.032,1988,NAN
+460,Hungary,Alain  Prost ,McLaren Honda,1:30.639,1988,PRO
+461,Belgium,Gerhard  Berger ,Ferrari,2:00.772,1988,BER
+462,Italy,Michele  Alboreto ,Ferrari,1:29.070,1988,ALB
+463,Portugal,Gerhard  Berger ,Ferrari,1:21.961,1988,BER
+464,Spain,Alain  Prost ,McLaren Honda,1:27.845,1988,PRO
+465,Japan,Ayrton  Senna ,McLaren Honda,1:46.326,1988,SEN
+466,Australia,Alain  Prost ,McLaren Honda,1:21.216,1988,PRO
+467,Brazil,Riccardo  Patrese ,Williams Renault,1:32.507,1989,PAT
+468,San Marino,Alain  Prost ,McLaren Honda,1:26.795,1989,PRO
+469,Monaco,Alain  Prost ,McLaren Honda,1:25.501,1989,PRO
+470,Mexico,Nigel  Mansell ,Ferrari,1:20.420,1989,MAN
+471,United States,Ayrton  Senna ,McLaren Honda,1:33.969,1989,SEN
+472,Canada,Jonathan Palmer ,Tyrrell Ford,1:31.925,1989,PAL
+473,France,Mauricio  Gugelmin ,March Judd,1:12.090,1989,GUG
+474,Great Britain,Nigel  Mansell ,Ferrari,1:12.017,1989,MAN
+475,Germany,Ayrton  Senna ,McLaren Honda,1:45.884,1989,SEN
+476,Hungary,Nigel  Mansell ,Ferrari,1:22.637,1989,MAN
+477,Belgium,Alain  Prost ,McLaren Honda,2:11.571,1989,PRO
+478,Italy,Alain  Prost ,McLaren Honda,1:28.107,1989,PRO
+479,Portugal,Gerhard  Berger ,Ferrari,1:18.986,1989,BER
+480,Spain,Ayrton  Senna ,McLaren Honda,1:25.779,1989,SEN
+481,Japan,Alain  Prost ,McLaren Honda,1:43.506,1989,PRO
+482,Australia,Satoru  Nakajima ,Lotus Judd,1:38.480,1989,NAK
+483,United States,Gerhard  Berger ,McLaren Honda,1:31.050,1990,BER
+484,Brazil,Gerhard  Berger ,McLaren Honda,1:19.899,1990,BER
+485,San Marino,Alessandro  Nannini ,Benetton Ford,1:27.156,1990,NAN
+486,Monaco,Ayrton  Senna ,McLaren Honda,1:24.468,1990,SEN
+487,Canada,Gerhard  Berger ,McLaren Honda,1:22.077,1990,BER
+488,Mexico,Alain  Prost ,Ferrari,1:17.958,1990,PRO
+489,France,Nigel  Mansell ,Ferrari,1:08.012,1990,MAN
+490,Great Britain,Nigel  Mansell ,Ferrari,1:11.291,1990,MAN
+491,Germany,Thierry  Boutsen ,Williams Renault,1:45.602,1990,BOU
+492,Hungary,Riccardo  Patrese ,Williams Renault,1:22.058,1990,PAT
+493,Belgium,Alain  Prost ,Ferrari,1:55.087,1990,PRO
+494,Italy,Ayrton  Senna ,McLaren Honda,1:26.254,1990,SEN
+495,Portugal,Riccardo  Patrese ,Williams Renault,1:18.306,1990,PAT
+496,Spain,Riccardo  Patrese ,Williams Renault,1:24.513,1990,PAT
+497,Japan,Riccardo  Patrese ,Williams Renault,1:44.233,1990,PAT
+498,Australia,Nigel  Mansell ,Ferrari,1:18.203,1990,MAN
+499,United States,Jean  Alesi ,Ferrari,1:26.758,1991,ALE
+500,Brazil,Nigel  Mansell ,Williams Renault,1:20.436,1991,MAN
+501,San Marino,Gerhard  Berger ,McLaren Honda,1:26.531,1991,BER
+502,Monaco,Alain  Prost ,Ferrari,1:24.368,1991,PRO
+503,Canada,Nigel  Mansell ,Williams Renault,1:22.385,1991,MAN
+504,Mexico,Nigel  Mansell ,Williams Renault,1:16.788,1991,MAN
+505,France,Nigel  Mansell ,Williams Renault,1:19.168,1991,MAN
+506,Great Britain,Nigel  Mansell ,Williams Renault,1:26.379,1991,MAN
+507,Germany,Riccardo  Patrese ,Williams Renault,1:43.569,1991,PAT
+508,Hungary,Bertrand  Gachot ,Jordan Ford,1:21.547,1991,GAC
+509,Belgium,Roberto  Moreno ,Benetton Ford,1:55.161,1991,MOR
+510,Italy,Ayrton  Senna ,McLaren Honda,1:26.061,1991,SEN
+511,Portugal,Nigel  Mansell ,Williams Renault,1:18.179,1991,MAN
+512,Spain,Riccardo  Patrese ,Williams Renault,1:22.837,1991,PAT
+513,Japan,Ayrton  Senna ,McLaren Honda,1:41.532,1991,SEN
+514,Australia,Gerhard  Berger ,McLaren Honda,1:41.141,1991,BER
+515,South Africa,Nigel  Mansell ,Williams Renault,1:17.578,1992,MAN
+516,Mexico,Gerhard  Berger ,McLaren Honda,1:17.711,1992,BER
+517,Brazil,Riccardo  Patrese ,Williams Renault,1:19.490,1992,PAT
+518,Spain,Nigel  Mansell ,Williams Renault,1:42.503,1992,MAN
+519,San Marino,Riccardo  Patrese ,Williams Renault,1:26.100,1992,PAT
+520,Monaco,Nigel  Mansell ,Williams Renault,1:21.598,1992,MAN
+521,Canada,Gerhard  Berger ,McLaren Honda,1:22.325,1992,BER
+522,France,Nigel  Mansell ,Williams Renault,1:17.070,1992,MAN
+523,Great Britain,Nigel  Mansell ,Williams Renault,1:22.539,1992,MAN
+524,Germany,Riccardo  Patrese ,Williams Renault,1:41.591,1992,PAT
+525,Hungary,Nigel  Mansell ,Williams Renault,1:18.308,1992,MAN
+526,Belgium,Michael  Schumacher ,Benetton Ford,1:53.791,1992,MSC
+527,Italy,Nigel  Mansell ,Williams Renault,1:26.119,1992,MAN
+528,Portugal,Ayrton  Senna ,McLaren Honda,1:16.272,1992,SEN
+529,Japan,Nigel  Mansell ,Williams Renault,1:40.646,1992,MAN
+530,Australia,Michael  Schumacher ,Benetton Ford,1:16.078,1992,MSC
+531,South Africa,Alain  Prost ,Williams Renault,1:19.492,1993,PRO
+532,Brazil,Michael  Schumacher ,Benetton Ford,1:20.024,1993,MSC
+533,Europe,Ayrton  Senna ,McLaren Ford,1:18.029,1993,SEN
+534,San Marino,Alain  Prost ,Williams Renault,1:26.128,1993,PRO
+535,Spain,Michael  Schumacher ,Benetton Ford,1:20.989,1993,MSC
+536,Monaco,Alain  Prost ,Williams Renault,1:23.604,1993,PRO
+537,Canada,Michael  Schumacher ,Benetton Ford,1:21.500,1993,MSC
+538,France,Michael  Schumacher ,Benetton Ford,1:19.256,1993,MSC
+539,Great Britain,Damon  Hill ,Williams Renault,1:22.515,1993,HIL
+540,Germany,Michael  Schumacher ,Benetton Ford,1:41.859,1993,MSC
+541,Hungary,Alain  Prost ,Williams Renault,1:19.633,1993,PRO
+542,Belgium,Alain  Prost ,Williams Renault,1:51.095,1993,PRO
+543,Italy,Damon  Hill ,Williams Renault,1:23.575,1993,HIL
+544,Portugal,Damon  Hill ,Williams Renault,1:14.859,1993,HIL
+545,Japan,Alain  Prost ,Williams Renault,1:41.176,1993,PRO
+546,Australia,Damon  Hill ,Williams Renault,1:15.381,1993,HIL
+547,Brazil,Michael  Schumacher ,Benetton Ford,1:18.455,1994,MSC
+548,Pacific,Michael  Schumacher ,Benetton Ford,1:14.023,1994,MSC
+549,San Marino,Damon  Hill ,Williams Renault,1:24.335,1994,HIL
+550,Monaco,Michael  Schumacher ,Benetton Ford,1:21.076,1994,MSC
+551,Spain,Michael  Schumacher ,Benetton Ford,1:25.155,1994,MSC
+552,Canada,Michael  Schumacher ,Benetton Ford,1:28.927,1994,MSC
+553,France,Damon  Hill ,Williams Renault,1:19.678,1994,HIL
+554,Great Britain,Damon  Hill ,Williams Renault,1:27.100,1994,HIL
+555,Germany,David  Coulthard ,Williams Renault,1:46.211,1994,COU
+556,Hungary,Michael  Schumacher ,Benetton Ford,1:20.881,1994,MSC
+557,Belgium,Damon  Hill ,Williams Renault,1:57.117,1994,HIL
+558,Italy,Damon  Hill ,Williams Renault,1:25.930,1994,HIL
+559,Portugal,David  Coulthard ,Williams Renault,1:22.446,1994,COU
+560,Europe,Michael  Schumacher ,Benetton Ford,1:25.040,1994,MSC
+561,Japan,Damon  Hill ,Williams Renault,1:56.597,1994,HIL
+562,Australia,Michael  Schumacher ,Benetton Ford,1:17.140,1994,MSC
+563,Brazil,Michael  Schumacher ,Benetton Renault,1:20.921,1995,MSC
+564,Argentina,Michael  Schumacher ,Benetton Renault,1:30.522,1995,MSC
+565,San Marino,Gerhard  Berger ,Ferrari,1:29.568,1995,BER
+566,Spain,Damon  Hill ,Williams Renault,1:24.531,1995,HIL
+567,Monaco,Jean  Alesi ,Ferrari,1:24.621,1995,ALE
+568,Canada,Michael  Schumacher ,Benetton Renault,1:29.174,1995,MSC
+569,France,Michael  Schumacher ,Benetton Renault,1:20.218,1995,MSC
+570,Great Britain,Damon  Hill ,Williams Renault,1:29.752,1995,HIL
+571,Germany,Michael  Schumacher ,Benetton Renault,1:48.824,1995,MSC
+572,Hungary,Damon  Hill ,Williams Renault,1:20.247,1995,HIL
+573,Belgium,David  Coulthard ,Williams Renault,1:53.412,1995,COU
+574,Italy,Gerhard  Berger ,Ferrari,1:26.419,1995,BER
+575,Portugal,David  Coulthard ,Williams Renault,1:23.220,1995,COU
+576,Europe,Michael  Schumacher ,Benetton Renault,1:21.180,1995,MSC
+577,Pacific,Michael  Schumacher ,Benetton Renault,1:16.374,1995,MSC
+578,Japan,Michael  Schumacher ,Benetton Renault,1:42.976,1995,MSC
+579,Australia,Damon  Hill ,Williams Renault,1:17.943,1995,HIL
+580,Australia,Jacques  Villeneuve ,Williams Renault,1:33.421,1996,VIL
+581,Brazil,Damon  Hill ,Williams Renault,1:21.547,1996,HIL
+582,Argentina,Jean  Alesi ,Benetton Renault,1:29.413,1996,ALE
+583,Europe,Damon  Hill ,Williams Renault,1:21.363,1996,HIL
+584,San Marino,Damon  Hill ,Williams Renault,1:28.931,1996,HIL
+585,Monaco,Jean  Alesi ,Benetton Renault,1:25.205,1996,ALE
+586,Spain,Michael  Schumacher ,Ferrari,1:45.517,1996,MSC
+587,Canada,Jacques  Villeneuve ,Williams Renault,1:21.916,1996,VIL
+588,France,Jacques  Villeneuve ,Williams Renault,1:18.610,1996,VIL
+589,Great Britain,Jacques  Villeneuve ,Williams Renault,1:29.288,1996,VIL
+590,Germany,Damon  Hill ,Williams Renault,1:46.504,1996,HIL
+591,Hungary,Damon  Hill ,Williams Renault,1:20.093,1996,HIL
+592,Belgium,Gerhard  Berger ,Benetton Renault,1:53.067,1996,BER
+593,Italy,Michael  Schumacher ,Ferrari,1:26.110,1996,MSC
+594,Portugal,Jacques  Villeneuve ,Williams Renault,1:22.873,1996,VIL
+595,Japan,Jacques  Villeneuve ,Williams Renault,1:44.043,1996,VIL
+596,Australia,Heinz-Harald  Frentzen ,Williams Renault,1:30.585,1997,FRE
+597,Brazil,Jacques  Villeneuve ,Williams Renault,1:18.397,1997,VIL
+598,Argentina,Gerhard  Berger ,Benetton Renault,1:27.981,1997,BER
+599,San Marino,Heinz-Harald  Frentzen ,Williams Renault,1:25.531,1997,FRE
+600,Monaco,Michael  Schumacher ,Ferrari,1:53.315,1997,MSC
+601,Spain,Giancarlo  Fisichella ,Jordan Peugeot,1:22.242,1997,FIS
+602,Canada,David  Coulthard ,McLaren Mercedes,1:19.635,1997,COU
+603,France,Michael  Schumacher ,Ferrari,1:17.910,1997,MSC
+604,Great Britain,Michael  Schumacher ,Ferrari,1:24.475,1997,MSC
+605,Germany,Gerhard  Berger ,Benetton Renault,1:45.747,1997,BER
+606,Hungary,Heinz-Harald  Frentzen ,Williams Renault,1:18.372,1997,FRE
+607,Belgium,Jacques  Villeneuve ,Williams Renault,1:52.692,1997,VIL
+608,Italy,Mika  Hakkinen ,McLaren Mercedes,1:24.808,1997,HAK
+609,Austria,Jacques  Villeneuve ,Williams Renault,1:11.814,1997,VIL
+610,Luxembourg,Heinz-Harald  Frentzen ,Williams Renault,1:18.805,1997,FRE
+611,Japan,Heinz-Harald  Frentzen ,Williams Renault,1:38.942,1997,FRE
+612,Europe,Heinz-Harald  Frentzen ,Williams Renault,1:23.135,1997,FRE
+613,Australia,Mika  Hakkinen ,McLaren Mercedes,1:31.649,1998,HAK
+614,Brazil,Mika  Hakkinen ,McLaren Mercedes,1:19.337,1998,HAK
+615,Argentina,Alexander  Wurz ,Benetton Playlife,1:28.179,1998,WUR
+616,San Marino,Michael  Schumacher ,Ferrari,1:29.345,1998,MSC
+617,Spain,Mika  Hakkinen ,McLaren Mercedes,1:24.275,1998,HAK
+618,Monaco,Mika  Hakkinen ,McLaren Mercedes,1:22.948,1998,HAK
+619,Canada,Michael  Schumacher ,Ferrari,1:19.379,1998,MSC
+620,France,David  Coulthard ,McLaren Mercedes,1:17.523,1998,COU
+621,Great Britain,Michael  Schumacher ,Ferrari,1:35.704,1998,MSC
+622,Austria,David  Coulthard ,McLaren Mercedes,1:12.878,1998,COU
+623,Germany,David  Coulthard ,McLaren Mercedes,1:46.116,1998,COU
+624,Hungary,Michael  Schumacher ,Ferrari,1:19.286,1998,MSC
+625,Belgium,Michael  Schumacher ,Ferrari,2:03.766,1998,MSC
+626,Italy,Mika  Hakkinen ,McLaren Mercedes,1:25.139,1998,HAK
+627,Luxembourg,Mika  Hakkinen ,McLaren Mercedes,1:20.450,1998,HAK
+628,Japan,Michael  Schumacher ,Ferrari,1:40.190,1998,MSC
+629,Australia,Michael  Schumacher ,Ferrari,1:32.112,1999,MSC
+630,Brazil,Mika  Hakkinen ,McLaren Mercedes,1:18.448,1999,HAK
+631,San Marino,Michael  Schumacher ,Ferrari,1:28.547,1999,MSC
+632,Monaco,Mika  Hakkinen ,McLaren Mercedes,1:22.259,1999,HAK
+633,Spain,Michael  Schumacher ,Ferrari,1:24.982,1999,MSC
+634,Canada,Eddie  Irvine ,Ferrari,1:20.382,1999,IRV
+635,France,David  Coulthard ,McLaren Mercedes,1:19.227,1999,COU
+636,Great Britain,Mika  Hakkinen ,McLaren Mercedes,1:28.309,1999,HAK
+637,Austria,Mika  Hakkinen ,McLaren Mercedes,1:12.107,1999,HAK
+638,Germany,David  Coulthard ,McLaren Mercedes,1:45.270,1999,COU
+639,Hungary,David  Coulthard ,McLaren Mercedes,1:20.699,1999,COU
+640,Belgium,Mika  Hakkinen ,McLaren Mercedes,1:53.955,1999,HAK
+641,Italy,Ralf  Schumacher ,Williams Supertec,1:25.579,1999,RSC
+642,Europe,Mika  Hakkinen ,McLaren Mercedes,1:21.282,1999,HAK
+643,Malaysia,Heinz-Harald  Frentzen ,Jordan Mugen Honda,1:40.631,1999,FRE
+644,Japan,Michael  Schumacher ,Ferrari,1:41.319,1999,MSC
+645,Australia,Rubens  Barrichello ,Ferrari,1:31.481,2000,BAR
+646,Brazil,Michael  Schumacher ,Ferrari,1:14.755,2000,MSC
+647,San Marino,Mika  Hakkinen ,McLaren Mercedes,1:26.523,2000,HAK
+648,Great Britain,Mika  Hakkinen ,McLaren Mercedes,1:26.217,2000,HAK
+649,Spain,Mika  Hakkinen ,McLaren Mercedes,1:24.470,2000,HAK
+650,Europe,Michael  Schumacher ,Ferrari,1:22.269,2000,MSC
+651,Monaco,Mika  Hakkinen ,McLaren Mercedes,1:21.571,2000,HAK
+652,Canada,Mika  Hakkinen ,McLaren Mercedes,1:19.049,2000,HAK
+653,France,David  Coulthard ,McLaren Mercedes,1:19.479,2000,COU
+654,Austria,David  Coulthard ,McLaren Mercedes,1:11.783,2000,COU
+655,Germany,Rubens  Barrichello ,Ferrari,1:44.300,2000,BAR
+656,Hungary,Mika  Hakkinen ,McLaren Mercedes,1:20.028,2000,HAK
+657,Belgium,Rubens  Barrichello ,Ferrari,1:53.803,2000,BAR
+658,Italy,Mika  Hakkinen ,McLaren Mercedes,1:25.595,2000,HAK
+659,United States,David  Coulthard ,McLaren Mercedes,1:14.711,2000,COU
+660,Japan,Mika  Hakkinen ,McLaren Mercedes,1:39.189,2000,HAK
+661,Malaysia,Mika  Hakkinen ,McLaren Mercedes,1:38.543,2000,HAK
+662,Australia,Michael  Schumacher ,Ferrari,1:28.214,2001,MSC
+663,Malaysia,Mika  Hakkinen ,McLaren Mercedes,1:40.962,2001,HAK
+664,Brazil,Ralf  Schumacher ,Williams BMW,1:15.693,2001,RSC
+665,San Marino,Ralf  Schumacher ,Williams BMW,1:25.524,2001,RSC
+666,Spain,Michael  Schumacher ,Ferrari,1:21.151,2001,MSC
+667,Austria,David  Coulthard ,McLaren Mercedes,1:10.843,2001,COU
+668,Monaco,David  Coulthard ,McLaren Mercedes,1:19.424,2001,COU
+669,Canada,Ralf  Schumacher ,Williams BMW,1:17.205,2001,RSC
+670,Europe,Juan Pablo  Montoya ,Williams BMW,1:18.354,2001,MOY
+671,France,David  Coulthard ,McLaren Mercedes,1:16.088,2001,COU
+672,Great Britain,Mika  Hakkinen ,McLaren Mercedes,1:23.405,2001,HAK
+673,Germany,Juan Pablo  Montoya ,Williams BMW,1:41.808,2001,MOY
+674,Hungary,Mika  Hakkinen ,McLaren Mercedes,1:16.723,2001,HAK
+675,Belgium,Michael  Schumacher ,Ferrari,1:49.758,2001,MSC
+676,Italy,Ralf  Schumacher ,Williams BMW,1:25.073,2001,RSC
+677,United States,Juan Pablo  Montoya ,Williams BMW,1:14.448,2001,MOY
+678,Japan,Ralf  Schumacher ,Williams BMW,1:36.944,2001,RSC
+679,Australia,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:28.541,2002,RAI
+680,Malaysia,Juan Pablo  Montoya ,Williams BMW,1:38.049,2002,MOY
+681,Brazil,Juan Pablo  Montoya ,Williams BMW,1:16.079,2002,MOY
+682,San Marino,Rubens  Barrichello ,Ferrari,1:24.170,2002,BAR
+683,Spain,Michael  Schumacher ,Ferrari,1:20.355,2002,MSC
+684,Austria,Michael  Schumacher ,Ferrari,1:09.298,2002,MSC
+685,Monaco,Rubens  Barrichello ,Ferrari,1:18.023,2002,BAR
+686,Canada,Juan Pablo  Montoya ,Williams BMW,1:15.960,2002,MOY
+687,Europe,Michael  Schumacher ,Ferrari,1:32.226,2002,MSC
+688,Great Britain,Rubens  Barrichello ,Ferrari,1:23.083,2002,BAR
+689,France,David  Coulthard ,McLaren Mercedes,1:15.045,2002,COU
+690,Germany,Michael  Schumacher ,Ferrari,1:16.462,2002,MSC
+691,Hungary,Michael  Schumacher ,Ferrari,1:16.207,2002,MSC
+692,Belgium,Michael  Schumacher ,Ferrari,1:47.176,2002,MSC
+693,Italy,Rubens  Barrichello ,Ferrari,1:23.657,2002,BAR
+694,United States,Rubens  Barrichello ,Ferrari,1:12.738,2002,BAR
+695,Japan,Michael  Schumacher ,Ferrari,1:36.125,2002,MSC
+696,Australia,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:27.724,2003,RAI
+697,Malaysia,Michael  Schumacher ,Ferrari,1:36.412,2003,MSC
+698,Brazil,Rubens  Barrichello ,Ferrari,1:22.032,2003,BAR
+699,San Marino,Michael  Schumacher ,Ferrari,1:22.491,2003,MSC
+700,Spain,Rubens  Barrichello ,Ferrari,1:20.143,2003,BAR
+701,Austria,Michael  Schumacher ,Ferrari,1:08.337,2003,MSC
+702,Monaco,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:14.545,2003,RAI
+703,Canada,Fernando  Alonso ,Renault,1:16.040,2003,ALO
+704,Europe,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:32.621,2003,RAI
+705,France,Juan Pablo  Montoya ,Williams BMW,1:15.512,2003,MOY
+706,Great Britain,Rubens  Barrichello ,Ferrari,1:22.236,2003,BAR
+707,Germany,Juan Pablo  Montoya ,Williams BMW,1:14.917,2003,MOY
+708,Hungary,Juan Pablo  Montoya ,Williams BMW,1:22.095,2003,MOY
+709,Italy,Michael  Schumacher ,Ferrari,1:21.832,2003,MSC
+710,United States,Michael  Schumacher ,Ferrari,1:11.473,2003,MSC
+711,Japan,Ralf  Schumacher ,Williams BMW,1:33.408,2003,RSC
+712,Australia,Michael  Schumacher ,Ferrari,1:24.125,2004,MSC
+713,Malaysia,Juan Pablo  Montoya ,Williams BMW,1:34.223,2004,MOY
+714,Bahrain,Michael  Schumacher ,Ferrari,1:30.252,2004,MSC
+715,San Marino,Michael  Schumacher ,Ferrari,1:20.411,2004,MSC
+716,Spain,Michael  Schumacher ,Ferrari,1:17.450,2004,MSC
+717,Monaco,Michael  Schumacher ,Ferrari,1:14.439,2004,MSC
+718,Europe,Michael  Schumacher ,Ferrari,1:29.468,2004,MSC
+719,Canada,Rubens  Barrichello ,Ferrari,1:13.622,2004,BAR
+720,United States,Rubens  Barrichello ,Ferrari,1:10.399,2004,BAR
+721,France,Michael  Schumacher ,Ferrari,1:15.377,2004,MSC
+722,Great Britain,Michael  Schumacher ,Ferrari,1:18.739,2004,MSC
+723,Germany,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:13.780,2004,RAI
+724,Hungary,Michael  Schumacher ,Ferrari,1:19.071,2004,MSC
+725,Belgium,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:45.108,2004,RAI
+726,Italy,Rubens  Barrichello ,Ferrari,1:21.046,2004,BAR
+727,China,Michael  Schumacher ,Ferrari,1:32.238,2004,MSC
+728,Japan,Rubens  Barrichello ,Ferrari,1:32.730,2004,BAR
+729,Brazil,Juan Pablo  Montoya ,Williams BMW,1:11.473,2004,MOY
+730,Australia,Fernando  Alonso ,Renault,1:25.683,2005,ALO
+731,Malaysia,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:35.483,2005,RAI
+732,Bahrain,Pedro  de la Rosa ,McLaren Mercedes,1:31.447,2005,DLR
+733,San Marino,Michael  Schumacher ,Ferrari,1:21.858,2005,MSC
+734,Spain,Giancarlo  Fisichella ,Renault,1:15.641,2005,FIS
+735,Monaco,Michael  Schumacher ,Ferrari,1:15.842,2005,MSC
+736,Europe,Fernando  Alonso ,Renault,1:30.711,2005,ALO
+737,Canada,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:14.384,2005,RAI
+738,United States,Michael  Schumacher ,Ferrari,1:11.497,2005,MSC
+739,France,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:16.423,2005,RAI
+740,Great Britain,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:20.502,2005,RAI
+741,Germany,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:14.873,2005,RAI
+742,Hungary,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:21.219,2005,RAI
+743,Turkey,Juan Pablo  Montoya ,McLaren Mercedes,1:24.770,2005,MOY
+744,Italy,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:21.504,2005,RAI
+745,Belgium,Ralf  Schumacher ,Toyota,1:51.453,2005,RSC
+746,Brazil,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:12.268,2005,RAI
+747,Japan,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:31.540,2005,RAI
+748,China,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:33.242,2005,RAI
+749,Bahrain,Nico  Rosberg ,Williams Cosworth,1:32.408,2006,ROS
+750,Malaysia,Fernando  Alonso ,Renault,1:34.803,2006,ALO
+751,Australia,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:26.045,2006,RAI
+752,San Marino,Fernando  Alonso ,Renault,1:24.569,2006,ALO
+753,Europe,Michael  Schumacher ,Ferrari,1:32.099,2006,MSC
+754,Spain,Felipe  Massa ,Ferrari,1:16.648,2006,MAS
+755,Monaco,Michael  Schumacher ,Ferrari,1:15.143,2006,MSC
+756,Great Britain,Fernando  Alonso ,Renault,1:21.599,2006,ALO
+757,Canada,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:15.841,2006,RAI
+758,United States,Michael  Schumacher ,Ferrari,1:12.719,2006,MSC
+759,France,Michael  Schumacher ,Ferrari,1:17.111,2006,MSC
+760,Germany,Michael  Schumacher ,Ferrari,1:16.357,2006,MSC
+761,Hungary,Felipe  Massa ,Ferrari,1:23.516,2006,MAS
+762,Turkey,Michael  Schumacher ,Ferrari,1:28.005,2006,MSC
+763,Italy,Kimi  RÃ¤ikkÃ¶nen ,McLaren Mercedes,1:22.559,2006,RAI
+764,China,Fernando  Alonso ,Renault,1:37.586,2006,ALO
+765,Japan,Fernando  Alonso ,Renault,1:32.676,2006,ALO
+766,Brazil,Michael  Schumacher ,Ferrari,1:12.162,2006,MSC
+767,Australia,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:25.235,2007,RAI
+768,Malaysia,Lewis  Hamilton ,McLaren Mercedes,1:36.701,2007,HAM
+769,Bahrain,Felipe  Massa ,Ferrari,1:34.067,2007,MAS
+770,Spain,Felipe  Massa ,Ferrari,1:22.680,2007,MAS
+771,Monaco,Fernando  Alonso ,McLaren Mercedes,1:15.284,2007,ALO
+772,Canada,Fernando  Alonso ,McLaren Mercedes,1:16.367,2007,ALO
+773,United States,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:13.117,2007,RAI
+774,France,Felipe  Massa ,Ferrari,1:16.099,2007,MAS
+775,Great Britain,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:20.638,2007,RAI
+776,Europe,Felipe  Massa ,Ferrari,1:32.853,2007,MAS
+777,Hungary,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:20.047,2007,RAI
+778,Turkey,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:27.295,2007,RAI
+779,Italy,Fernando  Alonso ,McLaren Mercedes,1:22.871,2007,ALO
+780,Belgium,Felipe  Massa ,Ferrari,1:48.036,2007,MAS
+781,Japan,Lewis  Hamilton ,McLaren Mercedes,1:28.193,2007,HAM
+782,China,Felipe  Massa ,Ferrari,1:37.454,2007,MAS
+783,Brazil,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:12.445,2007,RAI
+784,Australia,Heikki  Kovalainen ,McLaren Mercedes,1:27.418,2008,KOV
+785,Malaysia,Nick  Heidfeld ,Sauber BMW,1:35.366,2008,HEI
+786,Bahrain,Heikki  Kovalainen ,McLaren Mercedes,1:33.193,2008,KOV
+787,Spain,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:21.670,2008,RAI
+788,Turkey,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:26.506,2008,RAI
+789,Monaco,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:16.689,2008,RAI
+790,Canada,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:17.387,2008,RAI
+791,France,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:16.630,2008,RAI
+792,Great Britain,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:32.150,2008,RAI
+793,Germany,Nick  Heidfeld ,Sauber BMW,1:15.987,2008,HEI
+794,Hungary,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:21.195,2008,RAI
+795,Europe,Felipe  Massa ,Ferrari,1:38.708,2008,MAS
+796,Belgium,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:47.930,2008,RAI
+797,Italy,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:28.047,2008,RAI
+798,Singapore,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:45.599,2008,RAI
+799,Japan,Felipe  Massa ,Ferrari,1:18.426,2008,MAS
+800,China,Lewis  Hamilton ,McLaren Mercedes,1:36.325,2008,HAM
+801,Brazil,Felipe  Massa ,Ferrari,1:13.736,2008,MAS
+802,Australia,Nico  Rosberg ,Williams Toyota,1:27.706,2009,ROS
+803,Malaysia,Jenson  Button ,Brawn Mercedes,1:36.641,2009,BUT
+804,China,Rubens  Barrichello ,Brawn Mercedes,1:52.592,2009,BAR
+805,Bahrain,Jarno  Trulli ,Toyota,1:34.556,2009,TRU
+806,Spain,Rubens  Barrichello ,Brawn Mercedes,1:22.762,2009,BAR
+807,Monaco,Felipe  Massa ,Ferrari,1:15.154,2009,MAS
+808,Turkey,Jenson  Button ,Brawn Mercedes,1:27.579,2009,BUT
+809,Great Britain,Sebastian  Vettel ,RBR Renault,1:20.735,2009,VET
+810,Germany,Fernando  Alonso ,Renault,1:33.365,2009,ALO
+811,Hungary,Mark  Webber ,RBR Renault,1:21.931,2009,WEB
+812,Europe,Timo  Glock ,Toyota,1:38.683,2009,GLO
+813,Belgium,Sebastian  Vettel ,RBR Renault,1:47.263,2009,VET
+814,Italy,Adrian  Sutil ,Force India Mercedes,1:24.739,2009,SUT
+815,Singapore,Fernando  Alonso ,Renault,1:48.240,2009,ALO
+816,Japan,Mark  Webber ,RBR Renault,1:32.569,2009,WEB
+817,Brazil,Mark  Webber ,RBR Renault,1:13.733,2009,WEB
+818,Abu Dhabi,Sebastian  Vettel ,RBR Renault,1:40.279,2009,VET
+819,Bahrain,Fernando  Alonso ,Ferrari,1:58.287,2010,ALO
+820,Australia,Mark  Webber ,RBR Renault,1:28.358,2010,WEB
+821,Malaysia,Mark  Webber ,RBR Renault,1:37.054,2010,WEB
+822,China,Lewis  Hamilton ,McLaren Mercedes,1:42.061,2010,HAM
+823,Spain,Lewis  Hamilton ,McLaren Mercedes,1:24.357,2010,HAM
+824,Monaco,Sebastian  Vettel ,RBR Renault,1:15.192,2010,VET
+825,Turkey,Vitaly  Petrov ,Renault,1:29.165,2010,PET
+826,Canada,Robert  Kubica ,Renault,1:16.972,2010,KUB
+827,Europe,Jenson  Button ,McLaren Mercedes,1:38.766,2010,BUT
+828,Great Britain,Fernando  Alonso ,Ferrari,1:30.874,2010,ALO
+829,Germany,Sebastian  Vettel ,RBR Renault,1:15.824,2010,VET
+830,Hungary,Sebastian  Vettel ,RBR Renault,1:22.362,2010,VET
+831,Belgium,Lewis  Hamilton ,McLaren Mercedes,1:49.069,2010,HAM
+832,Italy,Fernando  Alonso ,Ferrari,1:24.139,2010,ALO
+833,Singapore,Fernando  Alonso ,Ferrari,1:47.976,2010,ALO
+834,Japan,Mark  Webber ,RBR Renault,1:33.474,2010,WEB
+835,South Korea,Fernando  Alonso ,Ferrari,1:50.257,2010,ALO
+836,Brazil,Lewis  Hamilton ,McLaren Mercedes,1:13.851,2010,HAM
+837,Abu Dhabi,Lewis  Hamilton ,McLaren Mercedes,1:41.274,2010,HAM
+838,Australia,Felipe  Massa ,Ferrari,1:28.947,2011,MAS
+839,Malaysia,Mark  Webber ,Red Bull Racing Renault,1:40.571,2011,WEB
+840,China,Mark  Webber ,Red Bull Racing Renault,1:38.993,2011,WEB
+841,Turkey,Mark  Webber ,Red Bull Racing Renault,1:29.703,2011,WEB
+842,Spain,Lewis  Hamilton ,McLaren Mercedes,1:26.727,2011,HAM
+843,Monaco,Mark  Webber ,Red Bull Racing Renault,1:16.234,2011,WEB
+844,Canada,Jenson  Button ,McLaren Mercedes,1:16.956,2011,BUT
+845,Europe,Sebastian  Vettel ,Red Bull Racing Renault,1:41.852,2011,VET
+846,Great Britain,Fernando  Alonso ,Ferrari,1:34.908,2011,ALO
+847,Germany,Lewis  Hamilton ,McLaren Mercedes,1:34.302,2011,HAM
+848,Hungary,Felipe  Massa ,Ferrari,1:23.415,2011,MAS
+849,Belgium,Mark  Webber ,Red Bull Racing Renault,1:49.883,2011,WEB
+850,Italy,Lewis  Hamilton ,McLaren Mercedes,1:26.187,2011,HAM
+851,Singapore,Jenson  Button ,McLaren Mercedes,1:48.454,2011,BUT
+852,Japan,Jenson  Button ,McLaren Mercedes,1:36.568,2011,BUT
+853,South Korea,Sebastian  Vettel ,Red Bull Racing Renault,1:39.605,2011,VET
+854,India,Sebastian  Vettel ,Red Bull Racing Renault,1:27.249,2011,VET
+855,Abu Dhabi,Mark  Webber ,Red Bull Racing Renault,1:42.612,2011,WEB
+856,Brazil,Mark  Webber ,Red Bull Racing Renault,1:15.324,2011,WEB
+857,Australia,Jenson  Button ,McLaren Mercedes,1:29.187,2012,BUT
+858,Malaysia,Kimi  RÃ¤ikkÃ¶nen ,Lotus Renault,1:40.722,2012,RAI
+859,China,Kamui  Kobayashi ,Sauber Ferrari,1:39.960,2012,KOB
+860,Bahrain,Sebastian  Vettel ,Red Bull Racing Renault,1:36.379,2012,VET
+861,Spain,Romain  Grosjean ,Lotus Renault,1:26.250,2012,GRO
+862,Monaco,Sergio  Perez ,Sauber Ferrari,1:17.296,2012,PER
+863,Canada,Sebastian  Vettel ,Red Bull Racing Renault,1:15.752,2012,VET
+864,Europe,Nico  Rosberg ,Mercedes,1:42.163,2012,ROS
+865,Great Britain,Kimi  RÃ¤ikkÃ¶nen ,Lotus Renault,1:34.661,2012,RAI
+866,Germany,Michael  Schumacher ,Mercedes,1:18.725,2012,MSC
+867,Hungary,Sebastian  Vettel ,Red Bull Racing Renault,1:24.136,2012,VET
+868,Belgium,Bruno  Senna ,Williams Renault,1:52.822,2012,SEN
+869,Italy,Nico  Rosberg ,Mercedes,1:27.239,2012,ROS
+870,Singapore,Nico  Hulkenberg ,Force India Mercedes,1:51.033,2012,HUL
+871,Japan,Sebastian  Vettel ,Red Bull Racing Renault,1:35.774,2012,VET
+872,South Korea,Mark  Webber ,Red Bull Racing Renault,1:42.037,2012,WEB
+873,India,Jenson  Button ,McLaren Mercedes,1:28.203,2012,BUT
+874,Abu Dhabi,Sebastian  Vettel ,Red Bull Racing Renault,1:43.964,2012,VET
+875,United States,Sebastian  Vettel ,Red Bull Racing Renault,1:39.347,2012,VET
+876,Brazil,Lewis  Hamilton ,McLaren Mercedes,1:18.069,2012,HAM
+877,Australia,Kimi  RÃ¤ikkÃ¶nen ,Lotus Renault,1:29.274,2013,RAI
+878,Malaysia,Sergio  Perez ,McLaren Mercedes,1:39.199,2013,PER
+879,China,Sebastian  Vettel ,Red Bull Racing Renault,1:36.808,2013,VET
+880,Bahrain,Sebastian  Vettel ,Red Bull Racing Renault,1:36.961,2013,VET
+881,Spain,Esteban  Gutierrez,Sauber Ferrari,1:26.217,2013,GUT
+882,Monaco,Sebastian  Vettel ,Red Bull Racing Renault,1:16.577,2013,VET
+883,Canada,Mark  Webber ,Red Bull Racing Renault,1:16.182,2013,WEB
+884,Great Britain,Mark  Webber ,Red Bull Racing Renault,1:33.401,2013,WEB
+885,Germany,Fernando  Alonso ,Ferrari,1:33.468,2013,ALO
+886,Hungary,Mark  Webber ,Red Bull Racing Renault,1:24.069,2013,WEB
+887,Belgium,Sebastian  Vettel ,Red Bull Racing Renault,1:50.756,2013,VET
+888,Italy,Lewis  Hamilton ,Mercedes,1:25.849,2013,HAM
+889,Singapore,Sebastian  Vettel ,Red Bull Racing Renault,1:48.574,2013,VET
+890,South Korea,Sebastian  Vettel ,Red Bull Racing Renault,1:41.380,2013,VET
+891,Japan,Mark  Webber ,Red Bull Racing Renault,1:34.587,2013,WEB
+892,India,Kimi  RÃ¤ikkÃ¶nen ,Lotus Renault,1:27.679,2013,RAI
+893,Abu Dhabi,Fernando  Alonso ,Ferrari,1:43.434,2013,ALO
+894,United States,Sebastian  Vettel ,Red Bull Racing Renault,1:39.856,2013,VET
+895,Brazil,Mark  Webber ,Red Bull Racing Renault,1:15.436,2013,WEB
+896,Australia,Nico  Rosberg ,Mercedes,1:32.478,2014,ROS
+897,Malaysia,Lewis  Hamilton ,Mercedes,1:43.066,2014,HAM
+898,Bahrain,Nico  Rosberg ,Mercedes,1:37.020,2014,ROS
+899,China,Nico  Rosberg ,Mercedes,1:40.402,2014,ROS
+900,Spain,Sebastian  Vettel ,Red Bull Racing Renault,1:28.918,2014,VET
+901,Monaco,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:18.479,2014,RAI
+902,Canada,Felipe  Massa ,Williams Mercedes,1:18.504,2014,MAS
+903,Austria,Sergio  Perez ,Force India Mercedes,1:12.142,2014,PER
+904,Great Britain,Lewis  Hamilton ,Mercedes,1:37.176,2014,HAM
+905,Germany,Lewis  Hamilton ,Mercedes,1:19.908,2014,HAM
+906,Hungary,Nico  Rosberg ,Mercedes,1:25.724,2014,ROS
+907,Belgium,Nico  Rosberg ,Mercedes,1:50.511,2014,ROS
+908,Italy,Lewis  Hamilton ,Mercedes,1:28.004,2014,HAM
+909,Singapore,Lewis  Hamilton ,Mercedes,1:50.417,2014,HAM
+910,Japan,Lewis  Hamilton ,Mercedes,1:51.600,2014,HAM
+911,Russia,Valtteri  Bottas ,Williams Mercedes,1:40.896,2014,BOT
+912,United States,Sebastian  Vettel ,Red Bull Racing Renault,1:41.379,2014,VET
+913,Brazil,Lewis  Hamilton ,Mercedes,1:13.555,2014,HAM
+914,Abu Dhabi,Daniel  Ricciardo ,Red Bull Racing Renault,1:44.496,2014,RIC
+915,Australia,Lewis  Hamilton ,Mercedes,1:30.945,2015,HAM
+916,Malaysia,Nico  Rosberg ,Mercedes,1:42.062,2015,ROS
+917,China,Lewis  Hamilton ,Mercedes,1:42.208,2015,HAM
+918,Bahrain,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:36.311,2015,RAI
+919,Spain,Lewis  Hamilton ,Mercedes,1:28.270,2015,HAM
+920,Monaco,Daniel  Ricciardo ,Red Bull Racing Renault,1:18.063,2015,RIC
+921,Canada,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:16.987,2015,RAI
+922,Austria,Nico  Rosberg ,Mercedes,1:11.235,2015,ROS
+923,Great Britain,Lewis  Hamilton ,Mercedes,1:37.093,2015,HAM
+924,Hungary,Daniel  Ricciardo ,Red Bull Racing Renault,1:24.821,2015,RIC
+925,Belgium,Nico  Rosberg ,Mercedes,1:52.416,2015,ROS
+926,Italy,Lewis  Hamilton ,Mercedes,1:26.672,2015,HAM
+927,Singapore,Daniel  Ricciardo ,Red Bull Racing Renault,1:50.041,2015,RIC
+928,Japan,Lewis  Hamilton ,Mercedes,1:36.145,2015,HAM
+929,Russia,Sebastian  Vettel ,Ferrari,1:40.071,2015,VET
+930,United States,Nico  Rosberg ,Mercedes,1:40.666,2015,ROS
+931,Mexico,Nico  Rosberg ,Mercedes,1:20.521,2015,ROS
+932,Brazil,Lewis  Hamilton ,Mercedes,1:14.832,2015,HAM
+933,Abu Dhabi,Lewis  Hamilton ,Mercedes,1:44.517,2015,HAM
+934,Australia,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:28.997,2016,RIC
+935,Bahrain,Nico  Rosberg ,Mercedes,1:34.482,2016,ROS
+936,China,Nico  Hulkenberg ,Force India Mercedes,1:39.824,2016,HUL
+937,Russia,Nico  Rosberg ,Mercedes,1:39.094,2016,ROS
+938,Spain,Daniil  Kvyat ,Toro Rosso Ferrari,1:26.948,2016,KVY
+939,Monaco,Lewis  Hamilton ,Mercedes,1:17.939,2016,HAM
+940,Canada,Nico  Rosberg ,Mercedes,1:15.599,2016,ROS
+941,Europe,Nico  Rosberg ,Mercedes,1:46.485,2016,ROS
+942,Austria,Lewis  Hamilton ,Mercedes,1:08.411,2016,HAM
+943,Great Britain,Nico  Rosberg ,Mercedes,1:35.548,2016,ROS
+944,Hungary,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:23.086,2016,RAI
+945,Germany,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:18.442,2016,RIC
+946,Belgium,Lewis  Hamilton ,Mercedes,1:51.583,2016,HAM
+947,Italy,Fernando  Alonso ,McLaren Honda,1:25.340,2016,ALO
+948,Singapore,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:47.187,2016,RIC
+949,Malaysia,Nico  Rosberg ,Mercedes,1:36.424,2016,ROS
+950,Japan,Sebastian  Vettel ,Ferrari,1:35.118,2016,VET
+951,United States,Sebastian  Vettel ,Ferrari,1:39.877,2016,VET
+952,Mexico,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:21.134,2016,RIC
+953,Brazil,Max  Verstappen ,Red Bull Racing TAG Heuer,1:25.305,2016,VER
+954,Abu Dhabi,Sebastian  Vettel ,Ferrari,1:43.729,2016,VET
+955,Australia,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:26.538,2017,RAI
+956,China,Lewis  Hamilton ,Mercedes,1:35.378,2017,HAM
+957,Bahrain,Lewis  Hamilton ,Mercedes,1:32.798,2017,HAM
+958,Russia,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:36.844,2017,RAI
+959,Spain,Lewis  Hamilton ,Mercedes,1:23.593,2017,HAM
+960,Monaco,Sergio  Perez ,Force India Mercedes,1:14.820,2017,PER
+961,Canada,Lewis  Hamilton ,Mercedes,1:14.551,2017,HAM
+962,Azerbaijan,Sebastian  Vettel ,Ferrari,1:43.441,2017,VET
+963,Austria,Lewis  Hamilton ,Mercedes,1:07.411,2017,HAM
+964,Great Britain,Lewis  Hamilton ,Mercedes,1:30.621,2017,HAM
+965,Hungary,Fernando  Alonso ,McLaren Honda,1:20.182,2017,ALO
+966,Belgium,Sebastian  Vettel ,Ferrari,1:46.577,2017,VET
+967,Italy,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:23.361,2017,RIC
+968,Singapore,Lewis  Hamilton ,Mercedes,1:45.008,2017,HAM
+969,Malaysia,Sebastian  Vettel ,Ferrari,1:34.080,2017,VET
+970,Japan,Valtteri  Bottas ,Mercedes,1:33.144,2017,BOT
+971,United States,Sebastian  Vettel ,Ferrari,1:37.766,2017,VET
+972,Mexico,Sebastian  Vettel ,Ferrari,1:18.785,2017,VET
+973,Brazil,Max  Verstappen ,Red Bull Racing TAG Heuer,1:11.044,2017,VER
+974,Abu Dhabi,Valtteri  Bottas ,Mercedes,1:40.650,2017,BOT
+975,Australia,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:25.945,2018,RIC
+976,Bahrain,Valtteri  Bottas ,Mercedes,1:33.740,2018,BOT
+977,China,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:35.785,2018,RIC
+978,Azerbaijan,Valtteri  Bottas ,Mercedes,1:45.149,2018,BOT
+979,Spain,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:18.441,2018,RIC
+980,Monaco,Max  Verstappen ,Red Bull Racing TAG Heuer,1:14.260,2018,VER
+981,Canada,Max  Verstappen ,Red Bull Racing TAG Heuer,1:13.864,2018,VER
+982,France,Valtteri  Bottas ,Mercedes,1:34.225,2018,BOT
+983,Austria,Kimi  RÃ¤ikkÃ¶nen ,Ferrari,1:06.957,2018,RAI
+984,Great Britain,Sebastian  Vettel ,Ferrari,1:30.696,2018,VET
+985,Germany,Lewis  Hamilton ,Mercedes,1:15.545,2018,HAM
+986,Hungary,Daniel  Ricciardo ,Red Bull Racing TAG Heuer,1:20.012,2018,RIC
+987,Belgium,Valtteri  Bottas ,Mercedes,1:46.286,2018,BOT
+988,Italy,Lewis  Hamilton ,Mercedes,1:22.497,2018,HAM
+989,Singapore,Kevin  Magnussen ,Haas Ferrari,1:41.905,2018,MAG
+990,Russia,Valtteri  Bottas ,Mercedes,1:35.861,2018,BOT
+991,Japan,Sebastian  Vettel ,Ferrari,1:32.318,2018,VET
+992,United States,Lewis  Hamilton ,Mercedes,1:37.392,2018,HAM
+993,Mexico,Valtteri  Bottas ,Mercedes,1:18.741,2018,BOT
+994,Brazil,Valtteri  Bottas ,Mercedes,1:10.540,2018,BOT
+995,Abu Dhabi,Sebastian  Vettel ,Ferrari,1:40.867,2018,VET
+996,Australia,Valtteri  Bottas ,Mercedes,1:25.580,2019,BOT
+997,Bahrain,Charles  Leclerc ,Ferrari,1:33.411,2019,LEC
+998,China,Pierre  Gasly ,Red Bull Racing Honda,1:34.742,2019,GAS
+999,Azerbaijan,Charles  Leclerc ,Ferrari,1:43.009,2019,LEC
+1000,Spain,Lewis  Hamilton ,Mercedes,1:18.492,2019,HAM
+1001,Monaco,Pierre  Gasly ,Red Bull Racing Honda,1:14.279,2019,GAS
+1002,Canada,Valtteri  Bottas ,Mercedes,1:13.078,2019,BOT
+1003,France,Sebastian  Vettel ,Ferrari,1:32.740,2019,VET
+1004,Austria,Max  Verstappen ,Red Bull Racing Honda,1:07.475,2019,VER
+1005,Great Britain,Lewis  Hamilton ,Mercedes,1:27.369,2019,HAM
+1006,Germany,Max  Verstappen ,Red Bull Racing Honda,1:16.645,2019,VER
+1007,Hungary,Max  Verstappen ,Red Bull Racing Honda,1:17.103,2019,VER
+1008,Belgium,Sebastian  Vettel ,Ferrari,1:46.409,2019,VET
+1009,Italy,Lewis  Hamilton ,Mercedes,1:21.779,2019,HAM
+1010,Singapore,Kevin  Magnussen ,Haas Ferrari,1:42.301,2019,MAG
+1011,Russia,Lewis  Hamilton ,Mercedes,1:35.761,2019,HAM
+1012,Japan,Lewis  Hamilton ,Mercedes,1:30.983,2019,HAM
+1013,Mexico,Charles  Leclerc ,Ferrari,1:19.232,2019,LEC
+1014,United States,Charles  Leclerc ,Ferrari,1:36.169,2019,LEC
+1015,Brazil,Valtteri  Bottas ,Mercedes,1:10.698,2019,BOT
+1016,Abu Dhabi,Lewis  Hamilton ,Mercedes,1:39.283,2019,HAM
+1017,Austria,Lando  Norris ,McLaren Renault,1:07.475,2020,NOR
+1018,Styria,Carlos  Sainz ,McLaren Renault,1:05.619,2020,SAI
+1019,Hungary,Lewis  Hamilton ,Mercedes,1:16.627,2020,HAM
+1020,Great Britain,Max  Verstappen ,Red Bull Racing Honda,1:27.097,2020,VER
+1021,70th Anniversary,Lewis  Hamilton ,Mercedes,1:28.451,2020,HAM
+1022,Spain,Valtteri  Bottas ,Mercedes,1:18.183,2020,BOT
+1023,Belgium,Daniel  Ricciardo ,Renault,1:47.483,2020,RIC
+1024,Italy,Lewis  Hamilton ,Mercedes,1:22.746,2020,HAM
+1025,Tuscany,Lewis  Hamilton ,Mercedes,1:18.833,2020,HAM
+1026,Russia,Valtteri  Bottas ,Mercedes,1:37.030,2020,BOT
+1027,Eifel,Max  Verstappen ,Red Bull Racing Honda,1:28.139,2020,VER
+1028,Portugal,Lewis  Hamilton ,Mercedes,1:18.750,2020,HAM
+1029,Emilia Romagna,Lewis  Hamilton ,Mercedes,1:15.484,2020,HAM
+1030,Turkey,Lando  Norris ,McLaren Renault,1:36.806,2020,NOR
+1031,Bahrain,Max  Verstappen ,Red Bull Racing Honda,1:32.014,2020,VER
+1032,Sakhir,George  Russell ,Mercedes,55.404,2020,RUS
+1033,Abu Dhabi,Daniel  Ricciardo ,Renault,1:40.926,2020,RIC
+1034,Bahrain,Valtteri  Bottas ,Mercedes,1:32.090,2021,BOT
+1035,Emilia Romagna,Lewis  Hamilton ,Mercedes,1:16.702,2021,HAM
+1036,Portugal,Valtteri  Bottas ,Mercedes,1:19.865,2021,BOT
+1037,Spain,Max  Verstappen ,Red Bull Racing Honda,1:18.149,2021,VER
+1038,Monaco,Lewis  Hamilton ,Mercedes,1:12.909,2021,HAM
+1039,Azerbaijan,Max  Verstappen ,Red Bull Racing Honda,1:44.481,2021,VER
+1040,France,Max  Verstappen ,Red Bull Racing Honda,1:36.404,2021,VER
+1041,Styria,Lewis  Hamilton ,Mercedes,1:07.058,2021,HAM
+1042,Austria,Max  Verstappen ,Red Bull Racing Honda,1:06.200,2021,VER
+1043,Great Britain,Sergio  Perez ,Red Bull Racing Honda,1:28.617,2021,PER
+1044,Hungary,Pierre  Gasly ,AlphaTauri Honda,1:18.394,2021,GAS
+1045,Netherlands,Lewis  Hamilton ,Mercedes,1:11.097,2021,HAM
+1046,Italy,Daniel  Ricciardo ,McLaren Mercedes,1:24.812,2021,RIC
+1047,Russia,Lando  Norris ,McLaren Mercedes,1:37.423,2021,NOR
+1048,Turkey,Valtteri  Bottas ,Mercedes,1:30.432,2021,BOT
+1049,United States,Lewis  Hamilton ,Mercedes,1:38.485,2021,HAM
+1050,Mexico,Valtteri  Bottas ,Mercedes,1:17.774,2021,BOT
+1051,Brazil,Sergio  Perez ,Red Bull Racing Honda,1:11.010,2021,PER
+1052,Qatar,Max  Verstappen ,Red Bull Racing Honda,1:23.196,2021,VER
+1053,Saudi Arabia,Lewis  Hamilton ,Mercedes,1:30.734,2021,HAM
+1054,Abu Dhabi,Max  Verstappen ,Red Bull Racing Honda,1:26.103,2021,VER
+1055,Bahrain,Charles  Leclerc ,Ferrari,1:34.570,2022,LEC
+1056,Saudi Arabia,Charles  Leclerc ,Ferrari,1:31.634,2022,LEC
+1057,Australia,Charles  Leclerc ,Ferrari,1:20.260,2022,LEC
+1058,Emilia Romagna,Max  Verstappen ,Red Bull Racing RBPT,1:18.446,2022,VER
+1059,Miami,Max  Verstappen ,Red Bull Racing RBPT,1:31.361,2022,VER
+1060,Spain,Sergio  Perez ,Red Bull Racing RBPT,1:24.108,2022,PER
+1061,Monaco,Lando  Norris ,McLaren Mercedes,1:14.693,2022,NOR
+1062,Azerbaijan,Sergio  Perez ,Red Bull Racing RBPT,1:46.046,2022,PER
+1063,Canada,Carlos  Sainz ,Ferrari,1:15.749,2022,SAI
+1064,Great Britain,Lewis  Hamilton ,Mercedes,1:30.510,2022,HAM
+1065,Austria,Max  Verstappen ,Red Bull Racing RBPT,1:07.275,2022,VER
+1066,France,Carlos  Sainz ,Ferrari,1:35.781,2022,SAI
+1067,Hungary,Lewis  Hamilton ,Mercedes,1:21.386,2022,HAM
+1068,Belgium,Max  Verstappen ,Red Bull Racing RBPT,1:49.354,2022,VER
+1069,Netherlands,Max  Verstappen ,Red Bull Racing RBPT,1:13.652,2022,VER
+1070,Italy,Sergio  Perez ,Red Bull Racing RBPT,1:24.030,2022,PER
+1071,Singapore,George  Russell ,Mercedes,1:46.458,2022,RUS
+1072,Japan,Zhou  Guanyu ,Alfa Romeo Ferrari,1:44.411,2022,ZHO
+1073,United States,George  Russell ,Mercedes,1:38.788,2022,RUS
+1074,Mexico,George  Russell ,Mercedes,1:20.153,2022,RUS
+1075,Brazil,George  Russell ,Mercedes,1:13.785,2022,RUS
+1076,Abu Dhabi,Lando  Norris ,McLaren Mercedes,1:28.391,2022,NOR
+1077,Bahrain,Zhou  Guanyu ,Alfa Romeo Ferrari,1:33.996,2023,ZHO
+1078,Saudi Arabia,Max  Verstappen ,Red Bull Racing Honda RBPT,1:31.906,2023,VER
+1079,Australia,Sergio  Perez ,Red Bull Racing Honda RBPT,1:20.235,2023,PER
+1080,Azerbaijan,George  Russell ,Mercedes,1:43.370,2023,RUS
+1081,Miami,Max  Verstappen ,Red Bull Racing Honda RBPT,1:29.708,2023,VER
+1082,Monaco,Lewis  Hamilton ,Mercedes,1:15.650,2023,HAM
+1083,Spain,Max  Verstappen ,Red Bull Racing Honda RBPT,1:16.330,2023,VER
+1084,Canada,Sergio  Perez ,Red Bull Racing Honda RBPT,1:14.481,2023,PER
+1085,Austria,Max  Verstappen ,Red Bull Racing Honda RBPT,1:07.012,2023,VER
+1086,Great Britain,Max  Verstappen ,Red Bull Racing Honda RBPT,1:30.275,2023,VER
+1087,Hungary,Max  Verstappen ,Red Bull Racing Honda RBPT,1:20.504,2023,VER
+1088,Belgium,Lewis  Hamilton ,Mercedes,1:47.305,2023,HAM
+1089,Netherlands,Fernando  Alonso ,Aston Martin Aramco Mercedes,1:13.837,2023,ALO
+1090,Italy,Oscar  Piastri ,McLaren Mercedes,1:25.072,2023,PIA
+1091,Singapore,Lewis  Hamilton ,Mercedes,1:35.867,2023,HAM
+1092,Japan,Max  Verstappen ,Red Bull Racing Honda RBPT,1:34.183,2023,VER
+1093,Qatar,Max  Verstappen ,Red Bull Racing Honda RBPT,1:24.319,2023,VER
+1094,United States,Yuki  Tsunoda ,AlphaTauri Honda RBPT,1:38.139,2023,TSU
+1095,Mexico,Lewis  Hamilton ,Mercedes,1:21.334,2023,HAM
+1096,Brazil,Lando  Norris ,McLaren Mercedes,1:12.486,2023,NOR
+1097,Las Vegas,Oscar  Piastri ,McLaren Mercedes,1:35.490,2023,PIA
+1098,Abu Dhabi,Max  Verstappen ,Red Bull Racing Honda RBPT,1:26.993,2023,VER
+1099,Bahrain,Max  Verstappen ,Red Bull Racing Honda RBPT,1:32.608,2024,VER
+1100,Saudi Arabia,Charles  Leclerc ,Ferrari,1:31.632,2024,LEC
+1101,Australia,Charles  Leclerc ,Ferrari,1:19.813,2024,LEC
+1102,Japan,Max  Verstappen ,Red Bull Racing Honda RBPT,1:33.706,2024,VER
+1103,China,Fernando  Alonso ,Aston Martin Aramco Mercedes,1:37.810,2024,ALO
+1104,Miami,Oscar  Piastri ,McLaren Mercedes,1:30.634,2024,PIA
+1105,Emilia Romagna,George  Russell ,Mercedes,1:18.589,2024,RUS
+1106,Monaco,Lewis  Hamilton ,Mercedes,1:14.165,2024,HAM
